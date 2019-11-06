@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+	<head>
+		<script language="javascript" type="text/javascript">
+			function search() {
+				var searchTerm = document.getElementById('searchBox').value;
+				window.open("https://www.youtube.com/results?search_type=search_videos&search_query=" + searchTerm);
+			}
+		</script>
+		<style>
+			input, button {
+				border: 1px solid transparent;
+				border-radius: 4px;
+				background-color: #f00;
+				color: #fff;
+				font-size: 2em;
+				padding: 1%;
+			}
+			
+			input {
+				width: 100%;
+			}
+			
+			button {
+				min-height: 32px;
+				margin: 4px;
+				font-size: 1em;
+			}
+			
+			button:hover {
+				background-color: #b00;
+			}
+			
+			button:hover:active {
+				background-color: #700;
+			}
+			
+			button {
+				padding: 3px;
+				min-width: 6.3em;
+			}
+		</style>
+		<title>Error 484F4D45</title>
+		<link rel="stylesheet" href="aboutNetError.css" type="text/css" media="all" />
+		<link rel="icon" id="favicon" href="chrome://global/skin/icons/error.svg" />
+	</head>
+	<body>
+		<div id="errorPageContainer">
+			<div id="text-container">
+				<div>
+					<input id="searchBox" type="text" placeholder="Search YouTube..." />
+					<h1 class="title-text">Hmm... We’re having trouble finding your homepage.</h1>
+					<h2 id="errorShortDescText">This is an error 484F4D45 "HOME".</h2>
+				</div>
+				<div>
+					<div>
+						<b>Here are some other things you can try:</b>
+						<ul>
+							<li>Click <b>Search</b> to search the query entered above.</li>
+							<li>Click <b>Radio</b> to go to Pandora.</li>
+							<li>Click <b>Listen</b> to go to SoundCloud</li>
+							<li>Click <b>Adapt</b> to go to Mubert.</li>
+							<li>Click <b>Stream</b> to go to Kanopy.</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="button-container">
+				<a href="Server Not Found.html"><button>Back</button></a>
+				<button onclick="search();" type="submit">Search</button>
+				<a href="https://www.pandora.com"><button>Radio</button></a>
+				<a href="https://www.soundcloud.com"><button>Listen</button></a>
+				<a href="https://www.mubert.com"><button>Adapt</button></a>
+				<a href="https://www.kanopy.com"><button>Stream</button></a>
+			</div>
+		</div>
+	</body>
+</html>

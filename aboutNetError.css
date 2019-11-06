@@ -1,0 +1,48 @@
+#errorPageContainer {
+	background-image: url("chrome://browser/content/illustrations/error-server-not-found.svg");
+	min-height: 300px;
+	display: flex;
+	flex-direction: column;
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: 50%;
+}
+
+html {
+	font: message-box;
+}
+
+h1, h2 {
+	font-size: 2.5em;
+	font-weight: lighter;
+}
+
+h2 {
+	font-size: 1.5em;
+}
+
+body {
+	font-size: 15px;
+	font-weight: normal;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	min-height: 100vh;
+	padding: 40px 48px;
+	justify-content: center;
+}
+
+ul > li, ol > li {
+	margin-bottom: .5em;
+}
+
+.button-container {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: end;
+}
+
+#text-container {
+	padding-inline-start: 40%;
+}

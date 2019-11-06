@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+	<head>
+		<script language="javascript" type="text/javascript">
+			function search() {
+				var searchTerm = document.getElementById('searchBox').value;
+				window.open("https://www.ck12.org/search/?q=" + searchTerm);
+			}
+		</script>
+		<style>
+			input, button {
+				border: 1px solid transparent;
+				border-radius: 4px;
+				background-color: #0b0;
+				color: #fff;
+				font-size: 2em;
+				padding: 1%;
+			}
+			
+			input {
+				width: 100%;
+			}
+			
+			button {
+				min-height: 32px;
+				margin: 4px;
+				font-size: 1em;
+			}
+			
+			button:hover {
+				background-color: #070;
+			}
+			
+			button:hover:active {
+				background-color: #050;
+			}
+			
+			button {
+				padding: 3px;
+				min-width: 6.3em;
+			}
+		</style>
+		<title>Error 484F4D45</title>
+		<link rel="stylesheet" href="aboutNetError.css" type="text/css" media="all" />
+		<link rel="icon" id="favicon" href="chrome://global/skin/icons/error.svg" />
+	</head>
+	<body>
+		<div id="errorPageContainer">
+			<div id="text-container">
+				<div>
+					<input id="searchBox" type="text" placeholder="Search CK-12..." />
+					<h1 class="title-text">Hmm... We’re having trouble finding your homepage.</h1>
+					<h2 id="errorShortDescText">This is an error 484F4D45 "HOME".</h2>
+				</div>
+				<div>
+					<div>
+						<b>Here are some other things you can try:</b>
+						<ul>
+							<li>Click <b>Search</b> to search the query entered above.</li>
+							<li>Click <b>Play</b> to go to BrainGenie.</li>
+							<li>Click <b>Translate</b> to go to Duolingo.</li>
+							<li>Click <b>List</b> to go to HomeSchool Panda.</li>
+							<li>Click <b>Submit</b> to go to Google Classroom.</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="button-container">
+				<a href="Server Not Found.html"><button>Back</button></a>
+				<button onclick="search();" type="submit">Search</button>
+				<a href="https://braingenie.ck12.org"><button>Play</button></a>
+				<a href="https://duolingo.com"><button>Translate</button></a>
+				<a href="https://app.homeschoolpanda.com/calendar"><button>List</button></a>
+				<a href="https://classroom.google.com"><button>Submit</button></a>
+			</div>
+		</div>
+	</body>
+</html>
