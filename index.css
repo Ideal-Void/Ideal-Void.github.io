@@ -6,11 +6,11 @@
 	background-position: left;
 	background-repeat: no-repeat;
 	background-size: 50%;
-	background-color: #bfffff;
 }
 
 html {
 	font: message-box;
+	background-color: #bfffff;
 }
 
 h1, h2 {
