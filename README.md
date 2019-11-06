@@ -5,7 +5,7 @@
 #### I'm trying to make NeverEnding Legacy mods work.
 ##### Any help would be appreciated.
 ###### I'm leaving the below text for reference i guess
-Check out my [mods]!
+Check out my [mods](mods)!
 ---
 
 
