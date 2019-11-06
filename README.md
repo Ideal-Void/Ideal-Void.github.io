@@ -5,18 +5,9 @@
 #### I'm trying to make NeverEnding Legacy mods work.
 ##### Any help would be appreciated.
 ###### I'm leaving the below text for reference i guess
+
 Check out my [mods](mods)!
 ---
-
-
-
-
-
-
-
-
-
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SuperTux20/pengaelic-mods/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
