@@ -1,6 +1,6 @@
 #errorPageContainer {
 	background-image: url("not-found.svg");
-	min-height: 300px;
+	min-height: 512px;
 	display: flex;
 	flex-direction: column;
 	background-position: left;
@@ -40,6 +40,7 @@ ul > li, ol > li {
 
 .button-container {
 	display: flex;
+	padding-top: 10%;
 	flex-flow: row wrap;
 	justify-content: end;
 }
