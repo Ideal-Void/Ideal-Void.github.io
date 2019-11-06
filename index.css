@@ -50,7 +50,7 @@ ul > li, ol > li {
 input, button {
 	border: 1px solid transparent;
 	border-radius: 4px;
-	background-color: #00f;
+	background-color: #007f7f;
 	color: #fff;
 	font-size: 2em;
 	padding: 1%;
@@ -67,11 +67,11 @@ button {
 }
 
 button:hover {
-	background-color: #00b;
+	background-color: #005f5f;
 }
 
 button:hover:active {
-	background-color: #007;
+	background-color: #003f3f;
 }
 
 button {
