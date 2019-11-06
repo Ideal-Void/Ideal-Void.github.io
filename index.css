@@ -1,5 +1,5 @@
 #errorPageContainer {
-	background-image: url("chrome://browser/content/illustrations/error-server-not-found.svg");
+	background-image: url("not-found.svg");
 	min-height: 300px;
 	display: flex;
 	flex-direction: column;
