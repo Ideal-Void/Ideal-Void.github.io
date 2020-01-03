@@ -1,0 +1,53 @@
+Infinite Power! This update adds electricity, some machines, and Redstone components!
+
+(Power unit is joules. J/T is joules per tick.)
+
++ Power Tools! Faster and stronger versions of normal tools. Power tools do not break! They just run out of power and need a recharge.
+    Drill, breaks what the next level pickaxe can. (i.e. Iron drill can break obsidian.) Also works as a shovel!
+    Chainsaw, cuts whole trees at once. Does more damage than an axe (and axes already deal more damage than swords).
+    Rototiller, acts like a hoe. Don't ask.
+
++ New wearable, Jetpack. Hold your Jump key to fly, and be sure you have some fuels in your inventory (coal, wood, blaze rods, etc). Gunpowder makes you fly up super fast! Just make sure you have no TNT in your inventory, the jetpack will explode and take you out with it. Also, it's like it has a Curse of Vanishing: it won't drop when it kills you. If you're near any blocks, it'll leave a sizeable crater.
++ New wearable, Electric Jetpack. Charge it up and hold your Jump key to fly!
++ New wearables, Armored Jetpacks. Combine a chestplate of any kind with a jetpack of either kind, and it'll give you armor. However, you don't go upwards as fast.
++ New ore, Cobalt. Can be made into special Cobalt wire that can be placed and powered by Cobalt blocks/torches to make redstone components behave in odd ways.
++ New block, Redstone Wire. Acts like Redstone Dust, but it can go up walls. I mean, dude. Come on. You can't tell me you haven't been wanting this for ages.
++ New redstone component, the Rotator. Rotates any block in the direction of its arrows when it receives a redstone signal, can be placed vertically. Right click to change clockwise and counter clockwise. It can rotate any block that is directional (pillars, logs, redstone components, chests, furnaces, etc)! Power it with cobalt to make it fire twice, flipping the block around.
++ New redstone component, the Clock. Right click to open a menu and set a delay, power it to activate. Power it with cobalt to make the clock power cobalt wire instead of redstone.
++ New block, rotten wood. Stand on it too long, it breaks beneath your feet. Redstone works too, it breaks faster the stronger the signal.
++ New metal, Steel. Put iron ingots in a furnace to make steel ingots! Use it to make tools that are in between iron and diamond.
++ Dyed Redstone Lamps. Emits light of the corresponding color.
++ Dyed Slime Blocks. They behave just like regular slime blocks, but different colors don't stick to each other.
++ Slimes of all 16 colors, and 16 colors of slime balls!
++ New ore, Copper. Smelt into ingots, use for tools and armor that are between chain and iron in strength and durability.
++ New liquid, Oil. Can be found like the random water and lava pools, collect it in a bucket and use it as fuel as efficient as two coal per bucket. Pools are especially common in Desert and Beach biomes.
++ New block, Copper Wire. Use it to connect electrical components together at 10 J/T. Two copper ingots and one Redstone dust.
++ New block, Iron Wire. Use it to connect electrical components together at 15 J/T. Two iron ingots and one Redstone dust.
++ New block, Gold Wire. Use it to connect electrical components together at 20 J/T. Two gold ingots and one Cobalt dust.
++ New block, the Battery. Stores power, has a little indicator on the sides, keeps power when broken. Can be any size, as they connect if they are adjacent. Place an item that requires power inside to charge it (drill, chainsaw, electric jetpack, etc). Place it directly next to a machine block for instant power transfer, no need for wires.
++ New block set, Pipes. Transfers items like hoppers, but in any direction (with no inventory like the hoppers, though). You can even see the items inside!
+    Regular pipes (iron ingot x6, glass x3) (all other pipes are based on this recipe)
+    Fast pipes (steel ingots) (good for long-distance transport)
+    Extraction pipes (gold ingots) (pulls items from containers like chests/dispensers/furnaces etc at 4 items/sec)
+    Routing pipes (one redstone dust in the center) (sends items from multiple sources in one direction)
+    Sorting pipes (one diamond in the center and a different dye in each corner) (sends different items different directions)
+    Activate a redstone source next to an extraction pipe to actually make it extract from the chest, dispenser, furnace, etc that it's placed next to. Right click a routing pipe to change where the items in it are supposed to go. Right click a sorting pipe to bring up a menu to select up to 9 item types to go in each direction.
+    You can use hoppers to put items into pipes automatically, just as long as the hopper faces the pipe! No extractor necessary.
++ New redstone component, Nullifier. It acts like a dispenser, you put items in it and give it redstone power, except instead of spitting the item out, it just deletes the item. Erases it. Sends it to /dev/null. Nothing left of it. Be careful with your diamonds!
++ New machine, Fan. Connect some power and pull a lever, and it blows away whatever is in a direct line of sight in front of it.
++ New machine, the Power Crafter. Place items in a crafting recipe, feed items into and out of it through hoppers, and you've got automatic crafting! Uses 10 J/T.
++ New machine, the Inverter. Converts electricity into redstone signal. It will consume more power the higher the signal output you select, 1 J/T * selected strength. Also generates power from redstone signals, but very little considering that redstone is infinite. 0.1 J/T times the signal strength.
++ New machine, the Electric Furnace. Uses electricity instead of fuel! Uses 10 J/T to cook/smelt an item.
++ New generator, the Solar Panel. Power generation varies throughout the day, up to 10 J/T at noon and 0 J/T at midnight.
++ New generator, the Thermal Generator. Makes 5 J/T from the heat put off by fire, magma blocks, and any type of furnace when smelting, but the furnace's fuel burns faster with the generator attached (Electric furnaces unaffected)! Makes 10 J/T with lava, and 1 J/T on torches and ANY other block that generates in the Nether other than gravel, mushrooms, or nether wart.
++ New generator, the Combustion Generator. Makes various amounts of power depending on what fuel you give it. The Thermal Generator can make 5 J/T off of this, too!
++ New machine, Press. Use it to compress blocks, 60 J/T (you're gonna need three gold wires going into it). You might even be able to crush coal into diamonds if you do it right...
++ Compressed blocks. Have too much junk? Compress it! Goes up to dectuple compression (3.5 billion blocks in one block) for cobblestone, quintuple (~60 thousand) for everything else. Works with cobblestone, dirt, sand, gravel, and more. 
+~ You can now break bedrock with a diamond drill, which takes an entire 60 seconds per block. Have fun!
+~ Hoppers powered with cobalt can vacuum things up from a distance!
+~ Droppers and dispensers have been merged! Cobalt makes it behave like a dropper, redstone makes it behave like a dispenser. Collective block is called the dispenser.
+~ For those of you wondering, no. You cannot make a self-sustaining electric furnace with a thermal generator. It can last quite a bit longer, but not forever.
+~ Slime block recipe changed. Make an O shape of 8 slime balls of any mix of colors and place a dye in the center, or you can do the same thing with of slime balls of the same color, and not use dye.
+~ Slime blocks can be uncrafted into slime balls of their own color. 
+- Removed placeable Redstone Dust, it will be replaced automatically in your worlds with Redstone Wire. (You might end up wanting to rebuild everything anyway, though... Everything can be so much more compact!)
+- Removed Herobrine.

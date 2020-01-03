@@ -1,0 +1,37 @@
+Minecraft is a fantasy game, but it doesn't necessarily emphasize on that point. We're not sure if that's a good thing or not, but here's a bunch of magicky stuff for ya!
+
++ New status bar above the XP bar, Mana. Depletes when magic is used.
++ New item, Wand. Craft it with two sticks, two Glowstone dust, and a diamond.
++ New item, Depleted Focus. Craft it with eight glass in a square. Craft it with numerous things to get wand foci.
++ Various wand foci to cast magic. All recipes require a depleted focus unless stated otherwise. When they run out of durability, rather than breaking, they become Depleted Foci again. All wand foci take mana to use.
+    Exchange, crafted with an emerald block. Left click to switch out the block you're looking at with a block in your hotbar, or right click to replace a large area.
+    Magnetism, crafted with five iron ingots, red dye, and blue dye. Hold right click to bring in all items and XP orbs to you from a few chunks around you. Hold left click to make all items and orbs in that range to swarm around you. No functional purpose for that action, just looks neat.
+    Arcane Mining, crafted with two iron pickaxes and a fire charge. Left clicking shoots a laser where you aim and breaks blocks, automatically smelting ores and sand. Turns stone into cobblestone still, but turns cobblestone blocks into stone. Right click to smelt a block in place, just transforming the block and not dropping an item (exceptions include ores, which will drop items)
+    Pyrokinesis, crafted with a fire charge. Left click to shoot a fireball like a Blaze or a dispenser would. Right click to set something on fire as if you used a flint and steel.
+    Ghastly Destruction, crafted with TNT, a Pyromania focus, and a Ghast tear. Shoots a more powerful version of a Ghast fireball in the direction of your left click. Places (or ignites already placed) TNT when you right click.
+    Arcane Blade, crafted with two diamond swords. Left click to deal 16 damage with a very fast combat cooldown. Right click to send a magical wave to knock back and damage all mobs it hit hits.
+    Portable Hole, crafted with four Ender Pearls and four Eyes of Ender. Right clicking opens a hole or tunnel in the direction you right click, it keeps going until it reaches an end (or bedrock, in which case the hole never opens). Holes will close when you right click again. The deeper the hole, the more mana it takes. Left click on a mob to send it into the ground, silently kill it, and then send its loot back to the surface. No XP will be gained from this mob. Almost works on Withers, they will just break the blocks around them. Does not work on Ender Dragons.
+    Megalomania, crafted with three bones, two wither skeleton skulls, two nether stars, and a dragon head. Left click to send a projectile bone flying in the direction you're looking, hold shift and left click to send three at slight angles in the direction you're looking, right click to set off a huge dragon skull blaster which drains your mana like crazy.
+
++ Focus Pouch to hold all your foci.
++ New potions.
+    Potion of Ironhide, gives Health Boost. Brewed with an iron ingot and an Instant Health potion.
+    Potion of Reinvigoration, gives Regeneration and Mana Regeneration. Brewed with lapis lazuli and Regeneration potions.
+    Potion of Restoration, gives Instant Health and Instant Mana. Brewed with lapis and Instant Health II potions.
+    Potion of Recharging, gives Instant Mana. Brewed with lapis lazuli and Instant Health potions.
+    Potion of the Tankmaster, gives Health Boost II, Mana Boost II, and Absorption II. Brewed with lapis lazuli and glowstone'd Ironhide potions.
+    Potion of the Grand Magus, gives Health Boost V, Mana Boost V, Regeneration III, Mana Regeneration III, Resistance III, and Absorption V. Brewed with a glowstone'd Potion of the Tankmaster and a Nether Star.
+    Potion of Redstone Power, gives Redstone Power. Brewed with a redstone block. The potions, and not the tipped arrows, also give you speed II and haste II.
+
++ New potion effects.
+    Redstone Powered. Makes you trigger any and all redstone components just by standing on them.
+    Mana Regeneration. Makes your mana replenish faster.
+    Instant Mana. Explains itself.
+    Mana Boost. Increases your maximum mana.
+
++ New items, spellbooks. Evokers and Illusioners can drop these, and depending on which one you got you can summon vexes of your own that attack hostile mobs, or you can summon those fangs that come up from the ground, or you can make holographic clones of yourself that move in sync with you and mirror your actions.
++ Illusioners have been officially added, all* of the bugs worked out, and thrown into raids!
++ Brewing recipe for the XP bottle, use an emerald block on a Mundane Potion.
+~ Enchanting or using an anvil for enchantment-related purposes now takes mana instead of XP. Enchanting still takes lapis. Why are your levels not taken anymore? Your maximum mana depends on your XP levels, so you can still have a level 30 enchantment that you can't get to because you don't have enough mana, which can mean you don't have enough levels. Item repair and renaming still takes XP.
+~ Collecting XP will regenerate your mana in addition to slow passive regeneration. Leveling up will increase your max mana by 5.
+- Removed Herobrine.

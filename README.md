@@ -7,6 +7,7 @@
 ###### I'm leaving the below text for reference i guess
 
 Check out my [mods](mods)!
+Also, my [Minecraft update ideas](mcupdates)!
 ---
 ## Welcome to GitHub Pages
 
