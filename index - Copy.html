@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+	<head>
+		<script language="javascript" type="text/javascript">
+			function search() {
+				var searchTerm = document.getElementById('searchBox').value;
+				window.open("https://github.com/search?q=" + searchTerm);
+			}
+		</script>
+		<title>Active construction site!</title>
+		<link rel="stylesheet" href="index - Copy.css" type="text/css" media="all" />
+		<link rel="icon" id="favicon" href="favicon.png" />
+	</head>
+	<body>
+		<div id="errorPageContainer">
+			<div id="text-container">
+				<div>
+					<input id="searchBox" type="text" placeholder="Search all of Github..." />
+					<h1 class="title-text">Hmm... Looks like my page is under construction.</h1>
+					<br><br><br>
+					<h2 id="errorShortDescText">Don't worry, I'm working on it!</h2>
+					<br><br><br>
+				</div>
+				<div>
+					<div>
+						<b>Here are some other things you can try:</b>
+						<ul>
+							<li>Try again later.</li>
+							<li>Admire the craftsmanship in this modification of Firefox's Server Not Found page.</li>
+							<li>Come back another time.</li>
+							<li>Click the buttons below to do stuff</li>
+							<li>Click <b>Search</b> to search the query entered above.</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="button-container">
+				<button onclick="search();" type="submit">Search</button>
+				<a href="mcupdates.html"><button>Minecraft Update Ideas</button></a>
+				<a href=""><button>Refresh</button></a>
+			</div>
+		</div>
+	</body>
+</html>
