@@ -1,10 +1,8 @@
 #errorPageContainer {
-	background-image: url("not-found.svg");
+	background: url("not-found.svg") no-repeat left center fixed;
 	min-height: 512px;
 	display: flex;
 	flex-direction: column;
-	background-position: left;
-	background-repeat: no-repeat;
 	background-size: 50%;
 }
 
@@ -39,10 +37,9 @@ ul > li, ol > li {
 }
 
 .button-container {
-	display: flex;
-	padding-top: 10%;
-	flex-flow: row wrap;
-	justify-content: end;
+	position:fixed;
+	bottom:0px;
+	right:0px;
 }
 
 #text-container {
