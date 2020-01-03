@@ -8,21 +8,9 @@
 				}
 			}
 			
-			@media only screen and (max-width: 500px) {
-				h2, h3, h4, h5, h6 {
-					display:none;
-				}
-			}
-			
 			@media only screen and (max-width: 1000px) {
 				h3, h4, h5, h6 {
 					display:none;
-				}
-			}
-			
-			@media screen and (orientation:portrait) {
-				* {
-					font-size:125%;
 				}
 			}
 			
@@ -42,7 +30,16 @@
 				height:48px;
 				width:128px;
 				text-align:center;
-				font-size:100%;
+			}
+			
+			@media screen and (orientation:portrait) {
+				* {
+					font-size:111%;
+				}
+				
+				p.footer {
+					bottom:10%;
+				}
 			}
 			
 			p.footer {
