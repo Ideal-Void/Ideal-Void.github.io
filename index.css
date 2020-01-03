@@ -29,20 +29,6 @@ body {
 	justify-content: center;
 }
 
-@media screen and (orientation:portrait) {
-	#errorPageContainer {
-		background: url("not-found.svg") no-repeat center center fixed;
-		height:96.165355682373vh;
-		background-size: cover;
-	}
-	
-	body {
-		font-size: 15px;
-		font-weight: normal;
-		justify-content: center;
-	}
-}
-
 ul > li, ol > li {
 	margin-bottom: .5em;
 }
@@ -63,6 +49,7 @@ input, button {
 	background-color: #7f7f7f;
 	color: #fff;
 	font-size: 2em;
+	float:right;
 	padding: 1%;
 }
 
@@ -87,4 +74,28 @@ button:hover:active {
 button {
 	padding: 3px;
 	min-width: 6.3em;
+}
+
+@media screen and (orientation:portrait) {
+	#errorPageContainer {
+		background: url("not-found.svg") no-repeat center center fixed;
+		height:96.165355682373vh;
+		background-size: cover;
+	}
+	
+	body {
+		font-size: 15px;
+		font-weight: normal;
+		justify-content: center;
+	}
+	
+	button {
+		min-height: 64px;
+		margin: 4px;
+		font-size: 3em;
+	}
+	
+	#text-container {
+		padding-inline-start: 2%;
+	}
 }
