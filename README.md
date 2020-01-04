@@ -1,10 +1,9 @@
 <img src="tux.png" alt="An alternative one of my profile pics" style="float:left;" />
-# Ayy. I'm Tux.
-## What's up?
-### I make stuff in my spare time.
-#### I'm trying to make NeverEnding Legacy mods work.
-##### Any help would be appreciated.
-###### I'm leaving the below text for reference i guess
+Hi, I'm Tux.
+I make stuff in my spare time.
+I'm trying to make NeverEnding Legacy mods work, among other things.
+Any help would be appreciated.
+I'm leaving the below text for reference i guess
 
 Check out my [mods](mods)!
 Also, my [Minecraft update ideas](mcupdates)!
