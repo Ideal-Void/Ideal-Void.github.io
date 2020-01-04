@@ -4,20 +4,20 @@
 		<title>Minecraft Ideas</title>
 		<link rel="icon" id="favicon" href="favicon.png" />
 		<style>
-			@media only screen and (max-width: 500px) {
+			@media only screen and (max-width:500px) {
 				h1, h2, h3, h4, h5, h6 {
 					display:none;
 				}
 			}
 			
-			@media only screen and (max-width: 1000px) {
+			@media only screen and (max-width:1000px) {
 				h3, h4, h5, h6 {
 					display:none;
 				}
 			}
 			
 			* {
-				font-family: "Liberation Mono", Consolas, "Courier New", monospace;
+				font-family:"Liberation Mono", Consolas, "Courier New", monospace;
 				margin:auto;
 			}
 			
@@ -26,19 +26,20 @@
 				color:#ffffff;
 			}
 			
-			#header {
-				background: linear-gradient(0deg, rgba(0,0,0,1) 50%, rgba(127,127,127,1) 100%);
+			.header {
+				background:linear-gradient(0deg, rgba(0,0,0,1) 50%, rgba(127,127,127,1) 100%);
 			}
+			
 			.footer {
 				position:fixed;
-				bottom:0px;
+				bottom:8px;
 				height:48px;
 				width:128px;
 				text-align:center;
 			}
 			
 			p.footer {
-				left:0px;
+				right:0px;
 				color:#ffffff;
 			}
 			
@@ -49,6 +50,55 @@
 			li {
 				padding-top:3%;
 				color:#000000;
+			}
+			
+			.back {
+				padding:15px 25px;
+				cursor:pointer;
+				outline:none;
+				color:#fff;
+				background-color:#7f3f00;
+				color:#ff7f00;
+				border:none;
+				border-radius:10px;
+				box-shadow:0 9px #3f1f00;
+				transition:all 0.1s;
+			}
+			
+			.back:hover {
+				background-color:#ff7f00;
+				color:#7f3f00;
+				transition:all 0.1s;
+				padding:15px 15px 15px 35px;
+			}
+			
+			.back:active {
+				background-color:#7f3f00;
+				color:#ff7f00;
+				box-shadow:0 5px #3f1f00;
+				transform:translateY(4px);
+				transition:0.1s;
+			}
+			
+			.back span {
+				cursor:pointer;
+				display:inline-block;
+				position:relative;
+				transition:0.5s;
+			}
+			
+			.back span:after {
+				content:'\00ab';
+				position:absolute;
+				opacity:0;
+				top:0;
+				left:-80px;
+				transition:0.5s;
+			}
+			
+			.back:hover span:after {
+				opacity:1;
+				right:0;
 			}
 			
 			a {
@@ -68,12 +118,7 @@
 			}
 			
 			a.footer {
-				right:0px;
-				color:#7f3f00;
-			}
-			
-			a.footer:hover {
-				color:#ff7f00;
+				left:0px;
 			}
 			
 			a.footer:active {
@@ -101,7 +146,7 @@
 		</style>
 	</head>
 	<body style="background:#000000;">
-		<div id="header">
+		<div class="header">
 			<h1 style="font-size:250%;">All of my Minecraft update ideas</h1>
 			<br>
 			<h2 style="font-size:200%;">Some of these are more fleshed-out than others.</h2>
@@ -123,6 +168,6 @@
 			</ul>
 		</div>
 		<p class="footer">(c) Jan 2020<br>Tux Penguin</p>
-		<a class="footer" href=".">Go back</a>
+		<a class="footer" href=""><button class="back"><span> Go back</span></button></a>
 	<body>
 </html>
