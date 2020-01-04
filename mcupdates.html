@@ -53,6 +53,7 @@
 			}
 			
 			.back {
+				bottom:-8px;
 				padding:15px 25px;
 				cursor:pointer;
 				outline:none;
@@ -61,7 +62,7 @@
 				color:#ff7f00;
 				border:none;
 				border-radius:10px;
-				box-shadow:0 9px #3f1f00;
+				box-shadow:0 4px #3f1f00;
 				transition:all 0.5s;
 			}
 			
@@ -75,7 +76,7 @@
 			.back:active {
 				background-color:#7f3f00;
 				color:#ff7f00;
-				box-shadow:0 5px #3f1f00;
+				box-shadow:0 4px #3f1f00;
 				transform:translateY(4px);
 				transition:0.5s;
 			}
@@ -121,10 +122,6 @@
 				left:0px;
 			}
 			
-			a.footer:active {
-				color:#000000;
-			}
-			
 			@media screen and (orientation:portrait) {
 				h1, h2, h3, h4, h5, h6, .footer {
 					font-size:125%;
@@ -141,6 +138,47 @@
 				
 				li {
 					padding-top:2%;
+				}
+				
+				.back {
+					bottom:-100px;
+					padding:30px 50px;
+					cursor:pointer;
+					outline:none;
+					color:#fff;
+					background-color:#7f3f00;
+					color:#ff7f00;
+					border:none;
+					border-radius:20px;
+					box-shadow:0 16px #3f1f00;
+					transition:all 0.5s;
+					font-size:200%;
+					white-space:nowrap;
+					margin-top:-999px;
+				}
+				
+				.back:hover {
+					background-color:#ff7f00;
+					color:#7f3f00;
+					transition:all 0.5s;
+					padding:30px 40px 30px 60px;
+				}
+				
+				.back:active {
+					background-color:#7f3f00;
+					color:#ff7f00;
+					box-shadow:0 8px #3f1f00;
+					transform:translateY(8px);
+					transition:0.5s;
+				}
+				
+				.back span:after {
+					content:'\00ab';
+					position:absolute;
+					opacity:0;
+					top:0;
+					left:-200px;
+					transition:0.5s;
 				}
 			}
 		</style>
