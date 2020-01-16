@@ -30,7 +30,7 @@ Minecraft is a fantasy game, but it doesn't necessarily emphasize on that point.
     Mana Boost. Increases your maximum mana.
 
 + New items, spellbooks. Evokers and Illusioners can drop these, and depending on which one you got you can summon vexes of your own that attack hostile mobs, or you can summon those fangs that come up from the ground, or you can make holographic clones of yourself that move in sync with you and mirror your actions.
-+ Illusioners have been officially added, all* of the bugs worked out, and thrown into raids!
++ Illusioners have been officially added, all* of the bugs worked out, and thrown into raids and mansions!
 + Brewing recipe for the XP bottle, use an emerald block on a Mundane Potion.
 ~ Enchanting or using an anvil for enchantment-related purposes now takes mana instead of XP. Enchanting still takes lapis. Why are your levels not taken anymore? Your maximum mana depends on your XP levels, so you can still have a level 30 enchantment that you can't get to because you don't have enough mana, which can mean you don't have enough levels. Item repair and renaming still takes XP.
 ~ Collecting XP will regenerate your mana in addition to slow passive regeneration. Leveling up will increase your max mana by 5.

@@ -2,7 +2,7 @@ This update isn't the usual kind of update, it adds mostly cosmetic things!
 
 + Wool clothes, offers 4 armor points of protection with the full set.
 + New tipped arrow, the Arrow of Golden Power. Crafted with 8 arrows and a golden apple.
-+ There is now something resembling that More Player Models mod. You have to do certain things to unlock more models (like, say tame five horses to have a centaur model), and they give you different stat boosts. Normal and Small player models are unlocked by default, as well as slight alterations of body proportions.
++ There is now something resembling that More Player Models mod. You have to do certain things to unlock more models (like, say tame five horses to use a centaur model), and they give you different stat boosts (Cloud model gives attacks a chance to miss). Normal and Small player models are unlocked by default, as well as slight alterations of body proportions controllable by sliders.
 ~ Arrows can now be placed in the helmet slot, looks like one of those arrow-through-the-head props. You can put up to a stack in there, and bows will actually take from it!
 ~ Place a carpet in the chestplate slot and you'll get a shawl in similar design to llama carpets! Offers 1 armor point of protection.
 ~ Place an apple in the helmet slot, and other players can shoot it off. It actually drops onto the ground if they succeed! Skeletons (and pillagers!) will by default try to hit the apple, so use it to distract them! You can also use golden apples, and the arrow will become an Arrow of Golden Power (while still getting your golden apple back!)

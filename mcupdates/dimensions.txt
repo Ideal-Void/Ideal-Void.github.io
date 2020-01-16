@@ -8,27 +8,27 @@ Welcome to the End of Hell. This update brings huge expansions to the Nether and
 + New mob, the Corrupted. A zombie-like creature that appears in the End, drops rotten flesh and Enditite Nuggets on death. Is hurt by water, burns in Overworld daylight. When it attacks, it teleports behind you and gives you blindness for 5 seconds.
 + New mob, the Withering Ghast. A larger, faster, darker Ghast whose fireballs leave behind Witherfire when they explode.
 + New mobs, the Magmuardian and Elder Magmuardian. Like regular guardians, but they live in lava. Will take damage in water.
-+ New mob, the Pigman. If killed by Zombie Pigmen they turn into more of them, like villagers and zombies. Trades quartz and gold for stuff. Like other Nether mobs, they do not take fire or magma block damage, but they do burn in lava. Has the same drops as Zombie Pigmen, but with raw pork chops instead of roasted flesh. Also has a chance of dropping quartz.
++ New mob, the Pigman. If killed by Zombie Pigmen they turn into more of them, like villagers and zombies. Trades quartz and gold for stuff. Like other Nether mobs, they do not take fire or magma block damage, but they do however burn in lava. Has the same drops as Zombie Pigmen, but with raw pork chops instead of roasted flesh. Also has a chance of dropping quartz.
 + New mob, the Burner. It's like the relationship between Zombies and the Incinerated, but this is with Creepers instead. Burners look like creepers made of magma and malice. Some Burners will lob fireballs at you (Note that I said lob, not shoot). When they get close to you, they behave like normal creepers, hissing and exploding. However, when it explodes, it sprays fire in every direction, and leaves no crater.
-+ New mob, the Blaster. Like a Creeper that lives in the End, can teleport to you. When it explodes, it will throw you very far. Be careful around the edge of the island!
++ New mob, the Blaster. Like a Creeper that lives in the End, can teleport to you. When it explodes, it will throw you very, very far. Be careful around the edge of the island!
 + Crafting recipe for the Totem of Undying, takes two Nether Stars, four blocks of gold, two emeralds, and a Wither Skeleton Skull.
-+ Crafting recipe for Broken Elytra, seven Phantom Membranes in a leggings pattern. Like normal broken elytra, you need to repair it with more Phantom Membranes in an anvil (You weren't gonna get off THAT easily, getting an Elytra before you even reach the Nether).
++ Crafting recipe for Broken Elytra, seven Phantom Membranes in a leggings pattern. Like normal broken elytra, you still need to repair it with more Phantom Membranes in an anvil (You weren't gonna get off THAT easily, getting an Elytra before you even reach the Nether).
 + New item, the Shulker Shot. Shulkers and shulker bullets now have a chance to drop this. Used in brewing, can be thrown and will target and hone in on the nearest mob. Thrown Shulker Shots will have the same effect as ordinary Shulker bullets, Levitation.
 + New block, Witherfire. Looks like an inverted grayscale of normal fire, gives you Wither III while standing in it, but doesn't actually burn. Created by the Withering Ghast's Witherfireballs and the Wither's flying skulls.
 + New blocks, End Dirt and Charred Soil. They generate naturally in their respective dimensions as a top layer on End and Nether Stone, like dirt on stone in the Overworld.
-+ New generated structure, the Lava Monument. Like a smaller version of the Ocean Monument with Magmuardians and Elder Magmuardians, and made with nether blocks, and has diamond blocks instead of gold.
++ New generated structure, the Lava Monument. Like a smaller version of the Ocean Monument with Magmuardians and Elder Magmuardians made with nether blocks, and has diamond blocks instead of gold.
 + New generated structure, the Nether Village. Generates like an Overworld village, but with Nether Brick variants, magma blocks, and Glowstone. Inhabited by Pigmen. Also, there's Nether Wart farms instead of wheat farms!
 + New generated structure set, the Rifts. They generate in all dimensions, different versions spawning different mobs. What dimension does it lead to? Look at the ground underneath it and the mobs that spawn. These rifts can be closed by setting off an explosion nearby.
-+ New item, Flamestring. Crafted with 1 string and 1 blaze powder.
-+ Blaze Bow and Blaze Fisher. Crafted with Flamestring and Blaze Rods instead of string and sticks, the Bow has Flame automatically, and the Fisher lets you fish in lava.
++ New item, Flamestring. Crafted with 1 string and 1 blaze powder. Can be used like tripwire, it's a little easier to see but it sets your unsuspecting victim on fire.
++ Blaze Bow and Blaze Fisher. Crafted with Flamestring and Blaze Rods instead of string and sticks, the Bow sets arrows on fire and the Fisher lets you fish in lava.
 + New End-exclusive ore, Enditite. Full armor and tool set, more powerful than diamond. Craft tools with blaze rods instead of sticks.
 + New item, the End King's Staff. Use it to collect the Dragon Egg, and later hatch it.
 + New item, the Dragon Saddle. Craft it by surrounding a saddle with Enditite Ingots.
 + New mob, the Pet Dragon. Feed it meat to make it grow bigger, but be careful! It will eventually rebel if it gets big enough (Another Ender Dragon fight in any dimension)! You can ride it if you put on a dragon saddle, left click to shoot a dragon fireball, right click to dash. If you get off midair, it will circle and glide to the ground beside you.
 + New lava fish! Catch them with the Blaze Fisher in lava.
     + Blazeel is used in potions, can be eaten to restore 5 drumsticks of hunger, but it's extra spicy (you get set on fire for less than 30 seconds).
-    + Right click with a Ghasting Ray in hand to shoot an explosive fireball! After 8 shots, the fish is depleted and can be eaten. Restores 2 drumsticks and gives regeneration III for 10 seconds when eaten.
-    + Wither Skeleton Fish is used in potions and cannot be eaten (it's literally bones, what do you expect).
+    + Right click with a Ghasting Ray in hand to shoot an explosive fireball! After 8 shots, the fish is depleted and can be eaten. Restores 2 drumsticks and gives regeneration III for 10 seconds.
+    + Wither Skeleton Fish is primarily used in potions. It can technically be eaten, but why would you want to? You lose half of your current HP and get Wither IV for 5 seconds. It also restores all 10 drumsticks.
     + Pigfish can be eaten to restore 4 drumsticks. Basically a cooked pork chop.
     ~ You can also find other things by fishing in lava. Fire-related enchanted books, Mending books, Protection and Blast Protection books, golden swords, gold nuggets and ingots (even a block if you're really lucky), roasted flesh, and Blaze rods.
 + New block, End Cobblestone. Get it by breaking End Stone.
@@ -72,7 +72,6 @@ Welcome to the End of Hell. This update brings huge expansions to the Nether and
 ~ Ghasts come in various sizes now.
 ~ All mobs that drop rotten flesh will drop roasted flesh if they die while burning.
 ~ End Stone is retextured to look like recolored Overworld stone, old End Stone texture is now on End Cobblestone.
-~ Netherrack now looks like red cobblestone. It did before, but that was the Minecraft Alpha cobblestone texture.
 ~ Nether Stone replaces Netherrack in new worlds, but not old ones. Same with old End Stone, now it's just renamed to End Cobblestone.
 ~ Creepers now spawn in the Nether from portals, like Zombie Pigmen do in the Overworld.
 ~ Zombie Pigmen now drop roasted flesh, and a chance of a cooked pork chop. Gold drops unchanged.

@@ -22,8 +22,8 @@ Infinite Power! This update adds electricity, some machines, and Redstone compon
 + New ore, Copper. Smelt into ingots, use for tools and armor that are between chain and iron in strength and durability.
 + New liquid, Oil. Can be found like the random water and lava pools, collect it in a bucket and use it as fuel as efficient as two coal per bucket. Pools are especially common in Desert and Beach biomes.
 + New block, Copper Wire. Use it to connect electrical components together at 10 J/T. Two copper ingots and one Redstone dust.
-+ New block, Iron Wire. Use it to connect electrical components together at 15 J/T. Two iron ingots and one Redstone dust.
-+ New block, Gold Wire. Use it to connect electrical components together at 20 J/T. Two gold ingots and one Cobalt dust.
++ New block, Iron Wire. Use it to connect electrical components together at 20 J/T. Two iron ingots and one Redstone dust.
++ New block, Gold Wire. Use it to connect electrical components together at 30 J/T. Two gold ingots and one Cobalt dust.
 + New block, the Battery. Stores power, has a little indicator on the sides, keeps power when broken. Can be any size, as they connect if they are adjacent. Place an item that requires power inside to charge it (drill, chainsaw, electric jetpack, etc). Place it directly next to a machine block for instant power transfer, no need for wires.
 + New block set, Pipes. Transfers items like hoppers, but in any direction (with no inventory like the hoppers, though). You can even see the items inside!
     Regular pipes (iron ingot x6, glass x3) (all other pipes are based on this recipe)
@@ -33,7 +33,7 @@ Infinite Power! This update adds electricity, some machines, and Redstone compon
     Sorting pipes (one diamond in the center and a different dye in each corner) (sends different items different directions)
     Activate a redstone source next to an extraction pipe to actually make it extract from the chest, dispenser, furnace, etc that it's placed next to. Right click a routing pipe to change where the items in it are supposed to go. Right click a sorting pipe to bring up a menu to select up to 9 item types to go in each direction.
     You can use hoppers to put items into pipes automatically, just as long as the hopper faces the pipe! No extractor necessary.
-+ New redstone component, Nullifier. It acts like a dispenser, you put items in it and give it redstone power, except instead of spitting the item out, it just deletes the item. Erases it. Sends it to /dev/null. Nothing left of it. Be careful with your diamonds!
++ New redstone component, Nullifier. It acts like a dispenser, you put items in it and give it redstone power, except instead of spitting a random item out, it just deletes it. Erases it. Sends it to /dev/null. Nothing left of it. Be careful with your diamonds!
 + New machine, Fan. Connect some power and pull a lever, and it blows away whatever is in a direct line of sight in front of it.
 + New machine, the Power Crafter. Place items in a crafting recipe, feed items into and out of it through hoppers, and you've got automatic crafting! Uses 10 J/T.
 + New machine, the Inverter. Converts electricity into redstone signal. It will consume more power the higher the signal output you select, 1 J/T * selected strength. Also generates power from redstone signals, but very little considering that redstone is infinite. 0.1 J/T times the signal strength.
@@ -41,8 +41,9 @@ Infinite Power! This update adds electricity, some machines, and Redstone compon
 + New generator, the Solar Panel. Power generation varies throughout the day, up to 10 J/T at noon and 0 J/T at midnight.
 + New generator, the Thermal Generator. Makes 5 J/T from the heat put off by fire, magma blocks, and any type of furnace when smelting, but the furnace's fuel burns faster with the generator attached (Electric furnaces unaffected)! Makes 10 J/T with lava, and 1 J/T on torches and ANY other block that generates in the Nether other than gravel, mushrooms, or nether wart.
 + New generator, the Combustion Generator. Makes various amounts of power depending on what fuel you give it. The Thermal Generator can make 5 J/T off of this, too!
-+ New machine, Press. Use it to compress blocks, 60 J/T (you're gonna need three gold wires going into it). You might even be able to crush coal into diamonds if you do it right...
-+ Compressed blocks. Have too much junk? Compress it! Goes up to dectuple compression (3.5 billion blocks in one block) for cobblestone, quintuple (~60 thousand) for everything else. Works with cobblestone, dirt, sand, gravel, and more. 
++ New machine, Press. Use it to compress blocks automatically, 60 J/T (you're gonna need two gold wires going into it). You might even be able to crush coal into diamonds if you do it right...
++ Compressed blocks. Have too many junk blocks? Compress them! Goes up to dectuple compression (3.486 billion blocks in one block) for cobblestone, quintuple (~60 thousand) for everything else. Works with cobblestone, dirt, sand, gravel, and more.
++ New block, Singularity. When placed, is very difficult to pick back up as it sucks you and other nearby entities in and swirls you around. Also sucks up nearby blocks in a much smaller range. Useful for mob farms! To craft it, java.lang.TooMuchCompressionException: Cobblestone
 ~ You can now break bedrock with a diamond drill, which takes an entire 60 seconds per block. Have fun!
 ~ Hoppers powered with cobalt can vacuum things up from a distance!
 ~ Droppers and dispensers have been merged! Cobalt makes it behave like a dropper, redstone makes it behave like a dispenser. Collective block is called the dispenser.

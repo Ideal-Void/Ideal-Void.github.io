@@ -1,7 +1,7 @@
 'Nuff said. Good luck.
 
 + Rare new Nether Fortress room. 
-+ Rare new generated structure set, Castles.
++ Rare new generated structure set, Castles. Fairly rare, spawn near Villages, Nether Fortresses, or End Cities.
 + Charged Slime blocks launch the player in the opposite of whatever direction they hit it from, even stronger than a regular slime block pushed by a piston.
 ~ Slimes of identical size now merge when they collide. Same applies to Magma Cubes.
 
@@ -14,7 +14,7 @@
 ==NETHER==
 + Demon Emperor. Spawns in the new room in Nether Fortresses.
 + Pig King. Spawns on the throne in Nether Castles. Summons Piglin minions.
-+ Mega Magma. Like the Super Slime, but it's a magma cube. Leaves behind a trail of fire and lava. Drops tons of magma cream, slime balls, and blaze powder instead of splitting.
++ Mega Magma. Like the Super Slime, but it's a magma cube. Converts netherrack below it to magma blocks. Drops tons of magma cream, slime balls, and blaze powder instead of splitting.
 
 ==END==
 + End Overlord. Spawns on the throne in End Castles. Summons Enderman minions.

@@ -2,34 +2,33 @@ This update adds a lot of tweaks and random new things.
 
 + New /gamerule, realisticPhysics. If set to true, items will no longer float and spin when dropped. Instead, they will just flop to the floor and follow realistic physics, meaning feathers and stuff fall slower due to air resistance, etc. You could also drop an anvil on an entity or player without even placing it. Dropping metal blocks has the same effect, and dropping tools and swords deals some damage, too. If you're not careful, these items can get stuck on you but they're not in your inventory, kinda like arrows. They will, however, drop when you die. And so will a skeleton's arrows now, regardless of gamerule.
 + New biome, the Overworld Confusion. Basically a big jumble of every natural Overworld block (including air), except bedrock. All trees spawn in this biome.
-+ New biome, the Nether Confusion. Like the Overworld Confusion, but with natural nether blocks instead
++ New biome, the Nether Confusion. Like the Overworld Confusion, but with natural nether blocks instead.
 + New biome, the End Confusion. Like the other Confusions, but with End stone, purpur blocks, and obsidian. Note: All Confusions are very rare, and they generate in their respective dimensions.
 + New chests and trapped chests for the different wood types. Original chests will be replaced with the type of wood blocks nearby, or depending on the biome if there aren't any.
 + New block, the Turtle Box. Crafted like a Shulker Box with scutes instead of Shulker shells, behaves like a shulker box, holds as much as a single chest (27 slots).
-+ New block, the Hotbox. Functions like a Smoker or a Blast Furnace, but smelts anything they don't. Green Dye, Red Dye, Charcoal, Stone, Smooth Stone etc.
++ New block, the Hotbox. Functions like a Smoker or a Blast Furnace, but smelts everything they don't. Green Dye, Red Dye, Charcoal, Stone, Smooth Stone etc.
 + New (multi)block, the Workbench. Right click to bring up a 5x5 crafting grid! 3x3 recipes can still be made in this. Place a Blast Furnace, a Smoker, a Hotbox, a crafting table, an enchantment table, and an anvil in a 3x2 rectangle (in any order) in your world, then right click with a glass bottle to actually turn them into the workbench. You can use all functionality of the components (minus one smelting spot), and store up to 100 XP levels inside! Note: XP may decay over time. This is normal. XP from smelting also automatically goes in here. XP will be taken from this for using the anvil and enchantment table, will use the player's XP if there isn't enough.) There are also slots for tools and a water bucket; if you put in an axe, you can right click the workbench with a log to strip it. If you put in a shovel, you can right click the workbench with a grass block, podzol, or mycelium to turn it into a grass path. If you put in a hoe, you can turn dirt, podzol, grass blocks, or mycelium into farmland. Water bucket, concrete powder into concrete. The tools will take damage, but the water bucket is forever. If a tool has Mending, it will pull XP to repair itself when right clicked.
 + Crafting recipe for the Trident in the Workbench.
 + New item, Guardian Spike. Get one by killing an Elder Guardian.
 + New enchantment for helmets, Illumination. Lights up the area around you, like a headlamp! Level I is like a redstone torch, II is a regular torch, III is glowstone.
 + New enchantment for boots, Magma Walker. Acts just like Frost Walker, but for lava. Also, you take no damage when walking on magma blocks! 
-+ New enchantment for buckets, Holding. Max level VII. Each level lets the bucket hold another block of liquid at a time. Works with milk, too! Because of this, buckets now can hold multiple fish. Fish contained in the bucket are listed in the tooltip in the order they will be placed. Buckets cannot contain more than one liquid type at once. (No water and lava in the same bucket, no fresh and salt water in one bucket). If you try to put water and lava in the same bucket, a block of obsidian or cobblestone in your inventory, and you will find yourself with an empty bucket. Cobblestone is much more likely, as getting obsidian without a diamond pickaxe is a little cheaty.
++ New enchantment for buckets, Holding. Max level IV. Each level lets the bucket hold another block of liquid at a time. Works with milk, too! Because of this, buckets now can hold multiple fish. Fish contained in the bucket are listed in the tooltip in the order they will be placed. Buckets cannot contain more than one liquid type at once. (No water and lava in the same bucket, no fresh and salt water in one bucket). If you try to put water and lava in the same bucket, a block of obsidian or cobblestone in your inventory, and you will find yourself with an empty bucket. Cobblestone is much more likely, as getting obsidian without a diamond pickaxe is a little cheaty.
 + Place gunpowder and use it as a fuse! TNT explodes instantly if lit from a fuse.
 + Every material that has a wall now has a gate.
 + Magma Cream blocks. Like slime blocks, but magma cream. These blocks do not stick to slime blocks.
-+ 2 new block states for every full block and plant, Slimy and Creamy, can be true or false values. When a Slime of sufficient size lands after jumping, the blocks underneath it have the Slimy value set to true. Similar with Magma Cubes, blocks underneath ones that are big enough become Creamy. When these blocks are broken, they have a chance to drop a slime ball or a magma cream (or both if you're lucky!) depending on what states are true, in addition to the normal drops. If a Blaze glides over a slimy block, it will become a creamy block. Yeah? Because magma cream is crafted w- oh forget it.
-+ Wooden wall blocks. They're functionally the same as fences, but they use the wall model.
++ 2 new block states for every full block and plant, Slimy and Creamy, can be true or false values. When a Slime of sufficient size lands after jumping, the blocks underneath it have the Slimy value set to true. Similar with Magma Cubes, blocks underneath ones that are big enough become Creamy. When these blocks are broken, they have a chance to drop a slime ball or a magma cream (or both if you're lucky!) depending on what states are true, in addition to the normal drops. If a Blaze glides over a slimy block, it will become creamy AND slimy. Yeah? Because magma cream is crafted w- oh forget it.
 + Vertical slabs. Finally.
 + Vertical stairs. (Better rounded walls!)
 + MANY many many crafting shortcuts, such as a bow recipe with a dropper in the middle makes a dispenser, multiple recipes at once in the workbench, etc.
 + New climbing animation for when you go up ladders and vines.
-+ Some extremely popular mods have been integrated into Minecraft. This might seem kinda weird, but where would we be without pistons and horses? They originally came from mods, after all.
++ Some popular mods have been integrated into Minecraft. This might seem kinda weird, but where would we be without pistons and horses? They originally came from mods, after all.
     + New enchantment for tools, Proficiency, acts like VeinMiner. You need to hold your sneak key to use the enchantment, and let go when you want to stop. Be careful, as you can eat through your entire Unbreaking III diamond pickaxe if you aren't careful! Just kidding, enchanted diamond tools stop when there's just one durability point left so you can go repair it. All non-enchanted, non-diamond tools will break.
     + New minimap, appears in the top right corner of the screen. Can be configured or turned off in settings, you can set waypoints using various block textures or mob faces for icons. You can't use it when you first start a world, you have to actually make a map item first. Then the minimap will be there forever in that world, unless you turn it off.
     + "Inventory Tweaks" has been integrated. There are now buttons to sort items in containers, and you can auto-replace tools when or shortly before they break!
     + "Mouse Wheelie" has been integrated. You can move items to and from containers with your mouse wheel!
     + "OptiFine" has been integrated, shaders and CTM and all. There's tons more capabilities for resource packs now, check the end of the update notes for more details.
-~ Crafting tables can now uncraft items, but at a cost of XP levels. Make too much Magma Cream and need Ender eyes? Uncraft it for a few levels to get the Blaze powder (and slime balls) back! Mineral blocks, etc can still be turned back for free.
-~ Eat sugar for Speed V for 5 seconds. You can eat it instantly like in Minecraft beta versions!
+~ Crafting tables can now uncraft items, but at a cost of XP. Make too much Magma Cream and need Ender eyes? Uncraft it for a few levels to get the Blaze powder (and slime balls) back! Mineral blocks, etc can still be turned back for free.
+~ Eat sugar for Speed V for 10 seconds. You can eat it instantly like in Minecraft beta versions!
 ~ If a Slime falls in lava, it is immediately turned into a Magma Cube.
 ~ Use gunpowder as a super speedy furnace fuel, but it's as inefficient as bamboo. Takes four to smelt one item, but in just one second. Items will smelt in half a second in blast furnaces/smokers/hotboxes!
 ~ Chickens have combs on their heads now.
@@ -44,7 +43,8 @@ This update adds a lot of tweaks and random new things.
 ~ Crawling no longer uses the swimming animation, but now has its own.
 ~ You can put lanterns, sea lanterns, glowstone, and jack-o-lanterns on your head now. Because of the OptiFine integration, they will shine light around you as you walk. Why does this matter if there's the Illumination enchantment? These four items offer no protection, but the helmets do. 
 ~ Maps are now for the most part decoration items, and they're automatically filled out (if you've been there) when you use them. Big maps on walls using item frames look very nice, that's part of the reason we didn't get rid of them.
-- Removed Nether Brick Fence.
+~ Right click any fence block with an empty hand to turn it into a wall block.
+- Removed Wall blocks.
 - Removed Herobrine.
 
 
@@ -61,4 +61,4 @@ To use Custom Item Textures for an item, follow similar procedure to the connect
 
 To use Random Entities, create a folder labeled "random" inside ^t/entity, and follow normal OptiFine procedure. (but without the "entity" subfolder inside "random" because that would make no sense)
 
-Named Entities have been separated from Random Entities. Simply create a folder in ^t/entity/<mob> where <mob> is the entity of choice. This folder should have the name of the name you want the entity to have. Alternatively, you can have one single textures for a renamed mob, so you only need to rename the image file and not make a folder. For example, ^t/entity/rabbit/Toast.png or ^t/entity/llama/Carl/Carl1.png and Carl2.png
+Named Entities have been separated from Random Entities. Simply create a folder in ^t/entity/<mob> where <mob> is the entity of choice. This folder should have the name of the name you want the entity to have. Alternatively, you can have one single textures for a renamed mob, so you only need to rename the image file and not make a folder. For example, ^t/entity/rabbit/Toast.png or ^t/entity/llama/Carl/Carl1.png and Carl2.png. Names are case-sensitive.
