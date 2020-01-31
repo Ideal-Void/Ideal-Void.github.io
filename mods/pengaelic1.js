@@ -8,7 +8,7 @@ sheets:{'pengaelicSheet':'img/pengaelic1ModIconSheet.png'},//custom stylesheet (
 func:function()
 {
 	//The idea in this simple example mod is to add a few elements focused around hot sauce, because hot sauce is great and I use that stuff everywhere.
-	
+	//Torches are food for now until I figure out how the game works some more.
 	//First we create a new resource :
 	new G.Res({
 		name:'torch',

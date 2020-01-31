@@ -1,7 +1,7 @@
 G.AddData({
 name:'Minecraft dataset',
 author:'Tux Penguin',
-desc:'A Minecraft-ified dataset for Legacy.',
+desc:'A Minecraft-ified dataset for Legacy. THIS REPLACES THE data.js FILE',
 engineVersion:1,
 manifest:0,
 sheets:{'craftSheet':'img/MinecraftIconSheet.png'},
