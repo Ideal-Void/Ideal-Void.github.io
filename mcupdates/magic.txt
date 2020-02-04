@@ -4,37 +4,37 @@ Minecraft is a fantasy game, but it doesn't necessarily emphasize on that point.
 + New item, Wand. Craft it with two sticks, two Glowstone dust, and a diamond.
 + New item, Depleted Focus. Craft it with eight glass in a square. Craft it with numerous things to get wand foci.
 + New items, Wand Foci. When they run out of durability, rather than breaking, they become Depleted Foci again. All wand foci take mana to use.
-	Exchange. Left click to switch out the block you're looking at with a block in your other hand, or right click to replace a large area.
-	Magnetism. Hold right click to bring in all items and XP orbs to you from the chunks around you. Hold left click to make all items and orbs in that range to swarm around you. No functional purpose for that action, just looks neat.
-	Arcane Mining. Left clicking shoots a laser where you aim and breaks blocks, automatically smelting ores and sand. Turns stone into cobblestone still, but turns cobblestone blocks into stone. Right click to smelt a block in place, just transforming the block and not dropping an item (exceptions include ores, which will drop items)
-	Pyrokinesis. Left click to shoot a fireball like a Blaze or a dispenser would. Right click to set something on fire as if you used a flint and steel.
-	Ghastly Destruction. Shoots a more powerful version of a Ghast fireball in the direction of your left click. Places (or ignites already placed) TNT when you right click.
-	Arcane Blade. Left click to deal 16 damage with a very fast combat cooldown. Right click to send a magical wave to heavily knock back and lightly damage all mobs it hits.
-	Portable Hole. Right clicking opens a hole or tunnel in the direction you right click, it keeps going until it reaches an end (or bedrock, in which case the hole never opens). Holes will close when you right click again. The deeper the hole, the more mana it takes. Left click on a mob to send it into the ground, silently kill it, and then send its loot back to the surface. No XP will be gained from this mob. Almost works on Withers, they will just shred the blocks around them. Does not work on the Ender Dragon.
-	Megalomania. Left click to send a projectile bone flying in the direction you're looking, hold shift and left click to send three at slight angles in the direction you're looking, right click to set off a huge dragon skull blaster which drains your mana exponentially faster the longer you hold the mouse button down for.
+    Exchange. Left click to switch out the block you're looking at with a block in your other hand, or right click to replace a large area.
+    Magnetism. Hold right click to bring in all items and XP orbs to you from the chunks around you. Hold left click to make all items and orbs in that range to swarm around you. No functional purpose for that action, just looks neat.
+    Arcane Mining. Left clicking shoots a laser where you aim and breaks blocks, automatically smelting ores and sand. Turns stone into cobblestone still, but turns cobblestone blocks into stone. Right click to smelt a block in place, just transforming the block and not dropping an item (exceptions include ores, which will drop items)
+    Pyrokinesis. Left click to shoot a fireball like a Blaze or a dispenser would. Right click to set something on fire as if you used a flint and steel.
+    Ghastly Destruction. Shoots a more powerful version of a Ghast fireball in the direction of your left click. Places (or ignites already placed) TNT when you right click.
+    Arcane Blade. Left click to deal 16 damage with a very fast combat cooldown. Right click to send a magical wave to heavily knock back and lightly damage all mobs it hits.
+    Portable Hole. Right clicking opens a hole or tunnel in the direction you right click, it keeps going until it reaches an end (or bedrock, in which case the hole never opens). Holes will close when you right click again. The deeper the hole, the more mana it takes. Left click on a mob to send it into the ground, silently kill it, and then send its loot back to the surface. No XP will be gained from this mob. Almost works on Withers, they will just shred the blocks around them. Does not work on the Ender Dragon.
+    Megalomania. Left click to send a projectile bone flying in the direction you're looking, hold shift and left click to send three at slight angles in the direction you're looking, right click to set off a huge dragon skull blaster which drains your mana exponentially faster the longer you hold the mouse button down for.
 
 + New items, Staffs. You can permanently attach a wand focus to a wand with an extra stick to make a staff with infinite durability, but it costs slightly more mana to use. There are more options for staffs beyond foci.
-	Staff of the Spider Queen. Right click to summon spiders to fight for you. Left click to summon cave spiders, but it takes more mana.
-	Staff of the Beekeeper. Right click to summon angry bees to swarm your opponents. Left click to get a honey bottle.
-	Staff of the Necromancer. Right click to summon various undead to fight for you. Left click to shoot a volley of tipped arrows with the Wither effect.
-	Staff of the Healer. Right click to shoot a beam at a mob or player that heals them very quickly. Left click to heal yourself.
+    Staff of the Spider Queen. Right click to summon spiders to fight for you. Left click to summon cave spiders, but it takes more mana.
+    Staff of the Beekeeper. Right click to summon angry bees to swarm your opponents. Left click to get a honey bottle.
+    Staff of the Necromancer. Right click to summon various undead to fight for you. Left click to shoot a volley of tipped arrows with the Wither effect.
+    Staff of the Healer. Right click to shoot a beam at a mob or player that heals them very quickly. Left click to heal yourself.
 
 + Focus Pouch to hold all your foci.
 
 + New potion effects.
-	Redstone Powered. Makes you trigger any and all redstone components just by standing on them.
-	Mana Regeneration. Makes your mana replenish faster.
-	Instant Mana. Explains itself.
-	Mana Boost. Increases your maximum mana.
+    Redstone Powered. Makes you trigger any and all redstone components just by standing on them.
+    Mana Regeneration. Makes your mana replenish faster.
+    Instant Mana. Explains itself.
+    Mana Boost. Increases your maximum mana.
 
 + New potions.
-	Potion of Ironhide, gives Health Boost. Brewed with an iron ingot and an Instant Health potion.
-	Potion of Reinvigoration, gives Regeneration and Mana Regeneration. Brewed with lapis lazuli and Regeneration potions.
-	Potion of Restoration, gives Instant Health and Instant Mana. Brewed with lapis and Instant Health II potions.
-	Potion of Recharging, gives Instant Mana. Brewed with lapis lazuli and Instant Health potions.
-	Potion of the Tankmaster, gives Health Boost II, Mana Boost II, and Absorption II. Brewed with lapis lazuli and glowstone'd Ironhide potions.
-	Potion of the Grand Magus, gives Health Boost V, Mana Boost V, Regeneration III, Mana Regeneration III, Resistance III, and Absorption V. Brewed with a glowstone'd Potion of the Tankmaster and a Nether Star.
-	Potion of Redstone Power, gives Redstone Power. Brewed with a redstone block. The potions, and not the tipped arrows, also give you speed II and haste II.
+    Potion of Ironhide, gives Health Boost. Brewed with an iron ingot and an Instant Health potion.
+    Potion of Reinvigoration, gives Regeneration and Mana Regeneration. Brewed with lapis lazuli and Regeneration potions.
+    Potion of Restoration, gives Instant Health and Instant Mana. Brewed with lapis and Instant Health II potions.
+    Potion of Recharging, gives Instant Mana. Brewed with lapis lazuli and Instant Health potions.
+    Potion of the Tankmaster, gives Health Boost II, Mana Boost II, and Absorption II. Brewed with lapis lazuli and glowstone'd Ironhide potions.
+    Potion of the Grand Magus, gives Health Boost V, Mana Boost V, Regeneration III, Mana Regeneration III, Resistance III, and Absorption V. Brewed with a glowstone'd Potion of the Tankmaster and a Nether Star.
+    Potion of Redstone Power, gives Redstone Power. Brewed with a redstone block. The potions, and not the tipped arrows, also give you speed II and haste II.
 
 + New items, spellbooks. Evokers and Illusioners can drop these, and depending on which one you got you can summon vexes of your own that attack hostile mobs, or you can summon those fangs that come up from the ground, or you can make holographic clones of yourself that move in sync with you and mirror your actions.
 + Illusioners have been officially added, all* of the bugs worked out, and thrown into raids and mansions!

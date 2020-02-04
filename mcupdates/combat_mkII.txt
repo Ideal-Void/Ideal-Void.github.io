@@ -2,7 +2,7 @@ Lots of you didn't like the new combat system in 1.9. Let's fix that and dump in
 
 + New /gamerule, attackDelay. Can be set to different numbers, is at 5 by default (1.9 and later). Can be changed to 0 for pre-1.9 behavior.
 + New equipment slot for accessories.
-+ New item, Chain. Crafted with 3 iron nuggets in a line, you can use it to connect minecarts in a train. Oh yeah, you can craft chain armor now, too.
++ New item, Chain. Crafted with 3 iron nuggets in a line, you can use it to connect minecarts in a train. Oh yeah, you can craft chain mail armor now, too.
 + Ancient wearable removed and come back again, the Quiver. Holds up to four types of arrows in stacks of 256! Goes in the accessory slot.
 + New wearable, the Scope Hat. Sneak to zoom in like OptiFine! Crafted with a leather hat and two glass panes. Can be dyed, and inherits dye color from the leather hat. Can be dyed like a leather hat.
 + New damage system with different types of damage, Crushing, Slashing, and Piercing. Different mobs are vulnerable to different types of damage (i.e. Skeletons take extra damage from crushing, most animals take extra damage from slashing, fish take extra damage from piercing (go spear fishing!))
@@ -10,8 +10,8 @@ Lots of you didn't like the new combat system in 1.9. Let's fix that and dump in
 + Function for the Fletching Table. You can make special arrows with it, up to a full stack at a time.
 + New arrow, Antigravity Arrow. Crafted in a Fletching Table with an Eye of Ender. Flies in a straight line!
 + New arrow, Flaming Arrow. Crafted in a Fletching Table with a fire charge. Acts like the Flame enchantment.
-+ New arrow, Explosive Arrow. Crafted in a Fletching Table with TNT. Explodes on impact with entities, but not with the ground. 
-+ New arrow, Very Explosive Arrow. Crafted in a Fletching Table with Unstable TNT. Explodes on impact against anything and everything.
++ New arrow, Explosive Arrow. Crafted in a Fletching Table with TNT. Explodes on impact with entities, but not with the ground. Does not destroy blocks.
++ New arrow, Very Explosive Arrow. Crafted in a Fletching Table with Unstable TNT. Explodes on impact against anything and everything. DOES destroy blocks.
 + New potion for the Blindness effect. Brewed with an ink sac.
 + New weapon set, Shortsword. Short reach, low-ish damage, swings pretty fast.
 + New weapon set, Broadswords. Decent reach, great damage, swings slightly slow.
@@ -19,7 +19,7 @@ Lots of you didn't like the new combat system in 1.9. Let's fix that and dump in
 + New weapon set, Greatswords. Great reach, great damage, swings quite slow.
 + New weapon set, Spears. Crafted like a shovel, but diagonal. Reaches pretty far, and can be thrown like a trident! Only trident enchantments that work are Piercing and Loyalty.
 + New weapon set, Glaives. Upgrade Spears to these. Reaches even farther, but cannot be thrown.
-+ New tool/weapon set, Hammers. Crafted like a shovel, but with a block instead of an item. Also takes logs, not sticks.
++ New tool/weapon set, Hammers. Crafted like a pickaxe, but with blocks and logs instead of items and sticks. Breaks glass and stone blocks faster, but not as fast as a pickaxe.
 + New weapon set, Sledgehammers. Deals more damage than Hammers and reaches just a little bit further. You also get a slowness effect while holding one, it will compound with armor slowness.
 + New armor sets, Heavy Armor. Provides more protection, but slows you down by 50%. Chain and leather do not have heavy variants.
 + New armor sets, Medium Armor. It's just the default armor, but now it slows you down by 25%. Leather does not have a medium variant, it's just... leather armor. No upgrades.

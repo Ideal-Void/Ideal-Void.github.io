@@ -2,7 +2,7 @@ This update isn't the usual kind of update, it adds mostly cosmetic things!
 
 + Wool clothes, offers 4 armor points of protection with the full set.
 + New tipped arrow, the Arrow of Golden Power. Crafted with 8 arrows and a golden apple.
-+ There is now something resembling that More Player Models mod. You have to do certain things to unlock more models (like, say tame five horses to use a centaur model), and they give you different stat boosts (Cloud model gives attacks a chance to miss). Normal and Small player models are unlocked by default, as well as slight alterations of body proportions controllable by sliders.
++ There is now something resembling that More Player Models mod. You have to do certain things to unlock more models, and they give you different stat boosts. Details at the bottom.
 ~ Arrows can now be placed in the helmet slot, looks like one of those arrow-through-the-head props. You can put up to a stack in there, and bows will actually take from it!
 ~ Place a carpet in the chestplate slot and you'll get a shawl in similar design to llama carpets! Offers 1 armor point of protection.
 ~ Place an apple in the helmet slot, and other players can shoot it off. It actually drops onto the ground if they succeed! Skeletons (and pillagers!) will by default try to hit the apple, so use it to distract them! You can also use golden apples, and the arrow will become an Arrow of Golden Power (while still getting your golden apple back!)
@@ -10,3 +10,18 @@ This update isn't the usual kind of update, it adds mostly cosmetic things!
 ~ Cauldrons can now take varying amounts of dye to get a custom dye item. If you do it right, you can get any hexadecimal color! Color code is displayed above the cauldron like a named mob. Use the custom dye item in a crafting table with leather or wool armor, or dye things like animal collars. You can dye sheep, but you'll just get the closest defined color out of the default 16 when it's sheared or killed. 
 - Removed Herobrine...
 + ...BUUUUT you can place glowstone dust in any armor slot to make yourself glow! You can change where in the settings. Mobs have this pre-defined, you can make glowy-eyed zombies and creepers! As for skeletons, the entire inside of their skulls will glow.
+
+==CUSTOM PLAYER MODEL DETAILS==
+All models are compatible with any skin, and cross-compatible for Steve or Alex models.
+Supplementary textures are taken from entities and/or colored yourself with the color picker.
+Changing your model type will take an emerald block from your inventory. If you don't have an emerald block, you won't transform.
+You can change the proportions of your body parts for free (say a bigger head or beefier arms).
+
+    Normal, unlocked and used by default.
+    Small, breed 10 animals to unlock. Your hitbox is 1 block tall, you can fit in smaller spaces. You also walk slightly slower.
+    Centaur, tame 5 horses to unlock. You can run up full blocks like they were stairs, and you also run faster and jump a block higher.
+    Cloud, reach build limit to unlock. You fall at half speed and take half as much fall damage. You also jump a block higher.
+    Harpy, kill 100 chickens to unlock. You can double jump, 2 blocks per jump.
+    Cat-person, tame 5 cats to unlock. You can run faster, and climb walls to a small extent.
+    Spiderlord, kill 100 spiders and/or cave spiders to unlock. You can climb up walls with no limit, but you move slightly slower.
+    Notsilverfish, kill 25 silverfish to unlock. Sneaking makes you invisible entirely.

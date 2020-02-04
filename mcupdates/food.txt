@@ -1,4 +1,4 @@
-More farming makes more food! The way you farm and prepare has been reworked, too!
+More farming makes more food! The way you farm and prepare food has been reworked, too.
 
 (Note, a few crafting recipes take cobblestone. Why? Think of it as a grindstone. You'll get the cobblestone back when you use it.)
 + New /gamerule, realisticLiquids. False by default, but if you turn it on, water, lava, etc. will be completely different. Source blocks don't exist. The Millibuckets (mB) unit commonly seen in mods now exists. Put simply, liquids behave like they do in Terraria, but in 3D.
