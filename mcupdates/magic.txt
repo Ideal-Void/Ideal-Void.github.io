@@ -1,4 +1,4 @@
-Minecraft is a fantasy game, but it doesn't necessarily emphasize on that point. We're not sure if that's a good thing or not, but here's a bunch of magicky stuff for ya!
+Minecraft is a fantasy game, but it doesn't necessarily emphasize on that point. We're not sure if that's a bad thing or not, but here's a bunch of magicky stuff for ya!
 
 + New status bar above the XP bar, Mana. Depletes when magic is used.
 + New item, Wand. Craft it with two sticks, two Glowstone dust, and a diamond.

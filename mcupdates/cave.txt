@@ -3,12 +3,11 @@ For a game with "Mine" in its name, mining hasn't seen too much change since the
 + Caves, generic underground biome, just specifies default caves as a biome.
 + Stala Caves, new underground biome with stalagmites and stalactites.
 + Crystal Caves, new underground biome with crystals of many colors jutting in every direction.
-+ Carlsbad, a case similar to the old Mesa Bryce biome, but it's something between Stala Caves and Crystal Caves that looks something like Carlsbad Caverns.
 + Crystal blocks! Find them in Crystal Caves and Carlsbad, dye them, and use them like glowing glass! Emits about the same amount of light as a magma block.
 + Cave variations of hostile mobs evolved glowing eyes, making caving a little easier because these mobs actually emit light. Along with normal drops, they also drop a random ore, coal, stone, or cobblestone.
 + Wooden armor, in between leather and chain.
 + Stone armor, in between chain and iron. protection-wise, but lasts as long as diamond. Gives you Slowness I when any piece is worn, effect does not compound.
-+ New tool, the Chisel. Right click certain blocks with it to change the look. (Some obvious ones are stone bricks --> chiseled stone bricks, quartz block --> chiseled quartz, sandstone... you get the idea.)
++ New tool, the Chisel. Right click certain blocks with it to change the look.
 + New tool, Diamond Chisel. Left click chip out individual voxels from blocks, and right click to replace them if you mess up. Those voxels are stored in an infinite secret compartment in the chisel, so you don't need to worry about storage!
 + Raw Minerals. Mining any ore block now gives you a raw mineral (except for coal and redstone), you have to smelt the raw item to get the usable item. Raw iron, raw gold, raw diamond, raw lapis, etc. IN ADDITION TO a block of cobblestone.
 + Sounds now echo in mountains and caves. Cave noises are even MORE terrifying!
