@@ -3,7 +3,7 @@ For a game with "Mine" in its name, mining hasn't seen too much change since the
 + Caves, generic underground biome, just specifies default caves as a biome.
 + Stala Caves, new underground biome with stalagmites and stalactites.
 + Crystal Caves, new underground biome with crystals of many colors jutting in every direction.
-+ Crystal blocks! Find them in Crystal Caves and Carlsbad, dye them, and use them like glowing glass! Emits about the same amount of light as a magma block.
++ Crystal blocks! Find them in Crystal Caves, dye them, and use them like glowing glass! Emits as much light as a magma block.
 + Cave variations of hostile mobs evolved glowing eyes, making caving a little easier because these mobs actually emit light. Along with normal drops, they also drop a random ore, coal, stone, or cobblestone.
 + Wooden armor, in between leather and chain.
 + Stone armor, in between chain and iron. protection-wise, but lasts as long as diamond. Gives you Slowness I when any piece is worn, effect does not compound.
