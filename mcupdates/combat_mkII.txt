@@ -1,17 +1,14 @@
 Lots of you didn't like the new combat system in 1.9. Let's fix that and dump in more cool features!
 
 + New /gamerule, attackDelay. Can be set to different numbers, is at 5 by default (1.9 and later). Can be changed to 0 for pre-1.9 behavior.
-+ New equipment slot for accessories.
 + New item, Chain. Crafted with 3 iron nuggets in a line, you can use it to connect minecarts in a train. Oh yeah, you can craft chain mail armor now, too.
-+ Ancient wearable removed and come back again, the Quiver. Holds up to four types of arrows in stacks of 256! Goes in the accessory slot.
-+ New wearable, the Scope Hat. Sneak to zoom in like OptiFine! Crafted with a leather hat and two glass panes. Can be dyed, and inherits dye color from the leather hat. Can be dyed like a leather hat.
-+ New damage system with different types of damage, Crushing, Slashing, and Piercing. Different mobs are vulnerable to different types of damage (i.e. Skeletons take extra damage from crushing, most animals take extra damage from slashing, fish take extra damage from piercing (go spear fishing!))
++ New damage system with different types of damage, Crushing, Slashing, and Piercing. Different mobs are vulnerable to different types of damage (i.e. Skeletons take extra damage from crushing, most animals take extra damage from slashing, fish take extra damage from piercing). The type of damage an tool or weapon deals is listed in the tooltip.
 + Crafting recipe for Unstable TNT (the kind that ignites when punched). Craft with 2 flint and 1 TNT to get 1 Unstable TNT.
 + Function for the Fletching Table. You can make special arrows with it, up to a full stack at a time.
 + New arrow, Antigravity Arrow. Crafted in a Fletching Table with an Eye of Ender. Flies in a straight line!
 + New arrow, Flaming Arrow. Crafted in a Fletching Table with a fire charge. Acts like the Flame enchantment.
 + New arrow, Explosive Arrow. Crafted in a Fletching Table with TNT. Explodes on impact with entities, but not with the ground. Does not destroy blocks.
-+ New arrow, Very Explosive Arrow. Crafted in a Fletching Table with Unstable TNT. Explodes on impact against anything and everything. DOES destroy blocks.
++ New arrow, Highly Explosive Arrow. Crafted in a Fletching Table with Unstable TNT. Explodes on impact against anything and everything. DOES destroy blocks.
 + New potion for the Blindness effect. Brewed with an ink sac.
 + New weapon set, Shortsword. Short reach, low-ish damage, swings pretty fast.
 + New weapon set, Broadswords. Decent reach, great damage, swings slightly slow.
@@ -27,7 +24,7 @@ Lots of you didn't like the new combat system in 1.9. Let's fix that and dump in
 + New shields for all equipment sets. Differences are what you would expect, diamond lasts longer and provides more protection than wood. 
 + Function for the Smithing Table. Upgrade weapons and armor with it! Add two materials of the corresponding set (leather, iron nugget, iron ingot, gold ingot, diamond) to upgrade a tool/weapon/armor piece to the next level, the exceptions being Hammer-->Sledgehammer, which takes blocks and Spear-->Glaive, which you use sticks instead. You have a choice of upgrading a Sword to a Longsword or Broadsword.
 + Give an armor stand a hay bale as a hat to turn it into a training dummy (it never breaks when punched)! Right click it to remove the hay bale and turn it back into an armor stand.
-+ New weapon, the Starblaster. Crafted with two nether stars, a beacon, a lever, and five obsidian, right click while aiming at a mob to deal immense damage with a particle beam. Also mines blocks!
++ New weapon, the Starblaster. Crafted with two nether stars, a beacon, a lever, and five obsidian, right click while aiming at a mob to deal immense damage with a particle beam. Also mines blocks! Has a lot of durability, but it will get too hot and burn you if you use it for too long. You'll need to wait for it to cool down or throw it in water to be able to use it again.
 ~ You can now click and hold to attack. No more tired fingers from spam clicking, and no more tired brains from trying to concentrate too hard on timing!
 ~ Elytra are now equipped in the accessory slot. You can wear them with chestplates now!
 ~ Wear and access a shulker box by putting it in the accessory slot. It's like a backpack, and you don't even have to place it to take items out!
@@ -39,7 +36,7 @@ Lots of you didn't like the new combat system in 1.9. Let's fix that and dump in
 ~ Shortsword-->Broadsword OR Longsword (your choice)
 ~ Put a Broadsword and a Longsword in an anvil to make a Greatsword.
 ~ Bows and crossbows can be repaired in an anvil with string.
-~ Tipped Arrows no longer require lingering potions, just splash potions instead.
+~ Tipped Arrows no longer require lingering potions, use any type (normal, splash, or lingering).
 ~ Tipped Arrows are made in the Fletching Table now.
 ~ Spectral Arrows are make in the Fletching Table now.
 ~ End Crystals now render what the actual entity would look like when you're holding it, this means the three cubic parts will rotate in your hand. In first person view, it will bob up and down in your hand. In third person however it will not bob, but float above your hand instead. An odd perception difference, adding to the mysterious nature of the End Crystal.
