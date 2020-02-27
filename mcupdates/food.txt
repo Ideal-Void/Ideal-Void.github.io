@@ -4,7 +4,8 @@ More farming makes more food! The way you farm and prepare food has been reworke
 + New /gamerule, realisticLiquids. False by default, but if you turn it on, water, lava, etc. will be completely different. Source blocks don't exist. The Millibuckets (mB) unit commonly seen in mods now exists. Put simply, liquids behave like they do in Terraria, but in 3D.
 + New functionality to brewing stands, they can make juice. Juices take no blaze powder, and they cannot have their effects amplified. Instead of redstone dust to extend duration, use sugar to double the time of the primary effect. Basic juices take one fruit and ordinary water bottles.
 + New tool set, Knives. Crafted like a sword, but with only one non-stick item rather than two. Can be used as a weapon, deals less damage than a sword but has a very quick cooldown time.
-+ New item, Fertilizer. Combine dirt and bone meal in a crafting table to get 8!
++ New block, Perlite. Perlite is formed by the hydration of obsidian. Craft 4 obsidian with a water bucket to get 8 perlite.
++ New item, Fertilizer. Combine dirt and bone meal in a crafting table to get 4, or use perlite instead of bone meal to get 16!
 + New block, Fertile Soil. Put 8 Fertilizer into a block of dirt by right-clicking, and you don't need to worry about tilling it to grow crops. They also grow much faster.
 + New item, Wheat Berries. Harvest wheat to get it. Can be composted.
 + New item, Straw. Harvest wheat to get it. Can be composted.

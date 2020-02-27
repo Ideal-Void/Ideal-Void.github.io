@@ -32,6 +32,7 @@ For a game with "Mine" in its name, mining hasn't seen too much change since the
 ~ Emerald ore is now just as rare as diamond.
 ~ There is now dynamic light, like in OptiFine.
 ~ You can coat your face in glowstone dust to light up your surroundings as you walk.
-~ New world generation format, chunks now generate in 16x16x16 instead of 16x256x16, and generate in 3d. (Don't understand? Check out the Cubic Chunks mod!) When you load an older world, you will be prompted to convert from Anvil to Cubit.
+~ New world generation format, chunks now generate in 16x16x16 instead of 16x<build limit>x16, and generate in 3D. (Don't understand? Check out some of AntVenom's videos on Cubic Chunks mod!) When you load an older world, you will be prompted to convert from Anvil to Cubit.
+~ Caves sometimes generate more realistically with huge open rooms and stalactites/mites.
 ~ Different gem armor sets give different status effects when the full set is worn. Full ruby gives Fire Resistance, quartz gives Jump Boost II and Slow Falling, diamond gives Strength III, topaz gives Haste II, emerald gives Luck VII, sapphire gives Night Vision, amethyst gives Speed IV, aquamarine gives Water Breathing and acts like it has Depth Strider III, tourmaline gives Health Boost V and Regeneration, onyx gives Resistance II.
 - Removed Herobrine.
