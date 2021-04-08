@@ -1,49 +1,53 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
-	<head>
-		<script language="javascript" type="text/javascript">
-			function search() {
-				var searchTerm = document.getElementById('searchBox').value;
-				window.open("https://github.com/search?q=" + searchTerm);
-			}
-		</script>
-		<title>Active construction site!</title>
-		<link rel="stylesheet" href="index.css" type="text/css" media="all" />
-		<link rel="icon" id="favicon" href="favicon.png" />
-	</head>
-	<body>
-		<div id="errorPageContainer">
-			<div id="text-container">
-				<div>
-					<input id="searchBox" type="text" placeholder="Search all of Github..." autofocus/>
-					<br><br><br>
-					<h1 class="title-text">Hmm... Looks like my page is under construction.</h1>
-					<br>
-					<h2 id="errorShortDescText">Don't worry, I'm working on it!</h2>
-					<br>
-				</div>
-				<div>
-					<div>
-						<b>Here are some other things you can try:</b>
-						<ul>
-							<li>Try again later.</li>
-							<li>Admire the craftsmanship in this rip of Firefox's Server Not Found page.</li>
-							<li>Be warned that I am just an amateur programmer.</li>
-							<li>Click the buttons below to do stuff.</li>
-							<li>Click <b>Search</b> to search the query entered above.</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="button-container">
-				<a href=""><button>Refresh</button></a>
-				<a href="mcupdates.html"><button>Minecraft Ideas</button></a>
-				<a href="legacymods.html"><button>NeverEnding Legacy Mods</button></a>
-				<a href="https://supertux20.github.io/Space-Cadet-NEO"><button style="background-color: purple;">Space Cadet NEO</button></a>
-				<a href="https://supertux20.github.io/Pengaelic-Bot"><button style="background-color: #007f7f;">Pengaelic Bot</button></a>
-				<a href="https://drive.google.com/drive/folders/1rQ5MMQoyF6oQmrjBopDlNKXHJgarDDB1"><button>Google Drive</button></a>
-				<button onclick="search();" type="submit">Search</button>
-			</div>
-		</div>
-	</body>
+
+<head>
+    <script language="javascript" type="text/javascript">
+        function search() {
+            var searchTerm = document.getElementById('searchBox').value;
+            window.open("https://github.com/search?q=" + searchTerm);
+        }
+    </script>
+    <title>Active construction site!</title>
+    <link rel="stylesheet" href="index.css" type="text/css" media="all" />
+    <link rel="icon" id="favicon" href="favicon.png" />
+    <link rel="alternate" type="application/json+oembed" href="https://www.youtube.com/oembed?format=json&amp;url=https%3A%2F%2Fsupertux20.github.io%2F" title="Tux's website lol" />
+</head>
+
+<body>
+    <div id="errorPageContainer">
+        <div id="text-container">
+            <div>
+                <input id="searchBox" type="text" placeholder="Search all of Github..." autofocus/>
+                <br><br><br>
+                <h1 class="title-text">Hmm... Looks like my page is under construction.</h1>
+                <br>
+                <h2 id="errorShortDescText">Don't worry, I'm working on it!</h2>
+                <br>
+            </div>
+            <div>
+                <div>
+                    <b>Here are some other things you can try:</b>
+                    <ul>
+                        <li>Try again later.</li>
+                        <li>Admire the craftsmanship in this rip of Firefox's Server Not Found page.</li>
+                        <li>Be warned that I am just an amateur programmer.</li>
+                        <li>Click the buttons below to do stuff.</li>
+                        <li>Click <b>Search</b> to search the query entered above.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="button-container">
+            <a href=""><button>Refresh</button></a>
+            <a href="mcupdates.html"><button>Minecraft Ideas</button></a>
+            <a href="legacymods.html"><button>NeverEnding Legacy Mods</button></a>
+            <a href="https://supertux20.github.io/Space-Cadet-NEO"><button style="background-color: purple;">Space Cadet NEO</button></a>
+            <a href="https://supertux20.github.io/Pengaelic-Bot"><button style="background-color: #007f7f;">Pengaelic Bot</button></a>
+            <a href="https://drive.google.com/drive/folders/1rQ5MMQoyF6oQmrjBopDlNKXHJgarDDB1"><button>Google Drive</button></a>
+            <button onclick="search();" type="submit">Search</button>
+        </div>
+    </div>
+</body>
+
 </html>
