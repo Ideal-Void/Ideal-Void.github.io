@@ -1,38 +1,30 @@
-For a game with "Mine" in its name, mining hasn't seen too much change since the beta days, has it?
+Yeah, Caves and Cliffs added a lot, but perhaps some new additions are in order?
 
-+ Caves, generic underground biome, just specifies default caves as a biome.
-+ Stala Caves, new underground biome with stalagmites and stalactites.
 + Crystal Caves, new underground biome with crystals of many colors jutting in every direction.
 + Crystal blocks! Find them in Crystal Caves, dye them, and use them like glowing glass! Emits as much light as a magma block.
 + Cave variations of hostile mobs evolved glowing eyes, making caving a little easier because these mobs actually emit light. Along with normal drops, they also drop a random ore, coal, stone, or cobblestone.
 + Wooden armor, in between leather and chain.
-+ Stone armor, in between chain and iron. protection-wise, but lasts as long as diamond. Gives you Slowness I when any piece is worn, effect does not compound.
++ Stone armor, in between chain and iron protection-wise, but lasts as long as diamond. Gives you Slowness I when any piece is worn, effect does not compound.
 + New tool, the Chisel. Right click certain blocks with it to change the look.
 + New tool, Diamond Chisel. Left click chip out individual voxels from blocks, and right click to replace them if you mess up. Those voxels are stored in an infinite secret compartment in the chisel, so you don't need to worry about storage!
-+ Raw Minerals. Mining any ore block now gives you a raw mineral (except for coal and redstone), you have to smelt the raw item to get the usable item. Raw iron, raw gold, raw diamond, raw lapis, etc. IN ADDITION TO a block of cobblestone.
++ Diamond, emerald, and quartz now have raw forms like amethyst shards.
++ Amethyst shards have a refined gem form.
 + Sounds now echo in mountains and caves. Cave noises are even MORE terrifying!
 + Dense ores, break into anywhere from 2 to 10 times as many Raw Minerals. Probability becomes less and less for higher numbers (2x is a 50% chance of dropping, 3x is a 25% chance, 4x is 12.5%, 5x is 6.25%, 6x is 3.125%, 7x is 1.5625%, 8x is 0.78125%, 9x is 0.390625%, and 10x is a 0.1953125% chance of dropping. Stacks with the Fortune enchantment.)
 + Emerald tools and armor! It has been long overdue. They're just as tough as diamond.
-+ New ores, Ruby, Sapphire, Topaz, Amethyst, Tourmaline, Onyx, and Aquamarine. Make them into blocks, tools, and armor! They're just as rare as diamonds, and just as tough.
-+ New item, Power Ball. Crafted with four redstone blocks, four gem blocks, and a nether star, eat it to get all positive status effects at level V for 600 seconds. Mmmm, crunchy!
++ New ores, Ruby, Sapphire, Topaz, Tourmaline, Onyx, and Aquamarine. Make them into blocks, tools, and armor! They're just as rare as diamonds, and just as tough.
++ Overworld ore for Quartz.
++ New geodes for all the new gems (plus diamond, emerald, and quartz).
 + Quartz tools and armor, just like the other gems.
-~ Quartz ore now appears in the overworld, as rare as diamond.
 ~ Quartz Blocks now take 9 quartz, and can be uncrafted back into quartz items.
-~ Villagers now trade with sapphires, in addition to the emeralds that they always have traded with before.
 ~ Magma blocks now generate around underground lava, or in lava lakes on the surface!
-~ Abandoned Mineshafts have been completely revamped, now with all sorts of traps and treasures, and they're not even completely abandoned! There's a quarantine area with a couple of villagers inside, and there's a bunch of zombie villagers outside.
-~ New villager outfit for abandoned mineshafts. These guys trade any type of gem interchangeably. 
-~ Obsidian is actually really easy to break in reality, so we decided to make it mine much faster. It can still be mined only with a gem pickaxe, though.
 ~ Lava buckets no longer smelt 100 items; they now smelt only 64 items.
-~ Stone tools/armor can be made with any mixture of stone, cobblestone, stone bricks (all variants), granite, diorite, andesite, smooth stone, or mossy cobblestone.
 ~ Wooden armor has variants for all types of logs.
 ~ Gold is insanely overpowered. All tools break blocks instantly and you take no damage with the armor on, but it breaks four times faster than it already did.
 ~ Caves now age! It's hard to describe. Vines and mushrooms grow, teeny tiny stalagmites/stalactites form, etc.
-~ Remember the eerie cave noises? Well now if you hear one, RUN. RUN FOR YOUR @#$%^&! LIFE. Okay, so you don't really have to run, but you need to find or make some light, or apply Night Vision right away. If you're not careful, you won't be able to drink the potion fast enough...
+~ Remember the eerie cave noises? Well now if you hear one, find or make some light, or apply Night Vision right away. If you're not careful, you might not make it out of that cave...
 ~ Emerald ore is now just as rare as diamond.
 ~ There is now dynamic light, like in OptiFine.
 ~ You can coat your face in glowstone dust to light up your surroundings as you walk.
-~ New world generation format, chunks now generate in 16x16x16 instead of 16x<build limit>x16, and generate in 3D. (Don't understand? Check out some of AntVenom's videos on Cubic Chunks mod!) When you load an older world, you will be prompted to convert from Anvil to Cubit.
-~ Caves sometimes generate more realistically with huge open rooms and stalactites/mites.
 ~ Different gem armor sets give different status effects when the full set is worn. Full ruby gives Fire Resistance, quartz gives Jump Boost II and Slow Falling, diamond gives Strength III, topaz gives Haste II, emerald gives Luck VII, sapphire gives Night Vision, amethyst gives Speed IV, aquamarine gives Water Breathing and acts like it has Depth Strider III, tourmaline gives Health Boost V and Regeneration, onyx gives Resistance II.
 - Removed Herobrine.

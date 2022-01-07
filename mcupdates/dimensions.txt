@@ -1,20 +1,19 @@
-Welcome to the End of Hell. This update brings huge expansions to the Nether and the End, as well as something very old and familiar, yet different...
+This update brings huge expansions to the End, some more additions to the Nether, and something very familiar, yet different...
 
 + New food, Roasted Flesh. Doesn't give you the Hunger debuff. Get it by cooking rotten flesh in a furnace.
 + New tree, Pearlleaf. Spawns in the End, can be used like any other tree. Wood has a yellowish color, like the End Stone. Leaves have a chance to drop chorus fruit and/or Ender pearls.
-+ Three new Nylium-based biomes in the Nether, Withered Forest, Inverse Fields, and River Styx. The Withered Forest is black and dead looking, with shriveled giant Wither Roses. Wither skeletons spawn here frequently, and there's even a rare chance for an actual Wither. The Inverse Fields actually generate on the ceiling of the Nether, and have bright yellow Nylium.
++ Three new Nylium-based biomes in the Nether, Withered Forest, Inverse Fields, and River Styx. The Withered Forest is black and dead looking, with shriveled giant Wither Roses. Wither skeletons spawn here frequently, and there's even a rare chance for an actual Wither. The Inverse Fields actually generate on the ceiling of the Nether, and have bright yellow Nylium. The River Styx has acid-green Nylium with a hot, acidic, and overall nasty substance flowing through it.
 + New enchantment, Magma Touch. Tools with this enchantment auto-smelt mined blocks, at the cost of using slightly more durability. Having Unbreaking II will completely counteract the extra drain. Better get those Mending books ready! A note for shovels... If a shovel has Magma Touch, you will get four bricks instead of four clay balls from a clay block. If a shovel has Silk Touch as well, you will get a Terracotta block instead! 
-+ New mob, the Incinerated. A zombie-like creature that appears in the Nether, drops roasted flesh and charcoal on death. Will set whatever it attacks on fire. If it stands still for five seconds, it will set the block it's standing on on fire. Swims in lava like the Drowned swim in water. If it comes into contact with water, it will extinguish into a Husk in a few seconds. If any Zombie, Husk, or Drowned burns to death, it will turn into one of these.
++ New mob, the Charred. A zombie-like creature that appears in the Nether, drops roasted flesh and charcoal on death. Will set whatever it attacks on fire. If it stands still for five seconds, it will set the block it's standing on on fire. Swims in lava like the Drowned swim in water. If it comes into contact with water, it will extinguish into a Husk in a few seconds. If any Zombie, Husk, or Drowned burns to death, it will turn into one of these.
 + New mob, the Corrupted. A zombie-like creature that appears in the End, drops rotten flesh and Enditite Nuggets on death. Is hurt by water, burns in Overworld daylight. When it attacks, it teleports behind you and gives you blindness for 5 seconds.
-+ New mob, the Withering Ghast. A larger, faster, darker Ghast whose fireballs leave behind Witherfire when they explode.
++ New mob, the Withering Ghast. A larger, faster, darker Ghast whose fireballs leave behind Witherflame when they explode.
 + New mobs, the Magmuardian and Elder Magmuardian. Like regular guardians, but they live in lava. Will take damage in water.
 + New mob, the Burner. It's like the relationship between Zombies and the Incinerated, but this is with Creepers instead. Burners look like creepers made of magma and malice. Some Burners will lob fireballs at you (Note that I said lob, not shoot). When they get close to you, they behave like normal creepers, hissing and exploding. However, when it explodes, it sprays fire in every direction, and leaves no crater.
 + New mob, the Blaster. Like a Creeper that lives in the End, can teleport to you. When it explodes, it will throw you very, very far. Be careful around the edge of the island!
 + Crafting recipe for the Totem of Undying, takes two Nether Stars, four blocks of gold, two emeralds, and a Wither Skeleton Skull.
 + Crafting recipe for Broken Elytra, seven Phantom Membranes in a leggings pattern. Like normal broken elytra, you still need to repair it with more Phantom Membranes in an anvil (You weren't gonna get off THAT easily, getting an Elytra before you even reach the Nether).
 + New item, the Shulker Shot. Shulkers and shulker bullets now have a chance to drop this. Used in brewing, can be thrown and will target and hone in on the nearest mob. Thrown Shulker Shots will have the same effect as ordinary Shulker bullets, Levitation.
-+ New block, Witherfire. Looks like an inverted grayscale of normal fire, gives you Wither III while standing in it, but doesn't actually burn. Created by the Withering Ghast's Witherfireballs and the Wither's flying skulls.
-+ New blocks, End Dirt and Scorched Dirt. They generate naturally in their respective dimensions as a top layer on End and Nether Stone, like dirt on stone in the Overworld.
++ New block, Witherflame. Looks like an inverted grayscale of normal fire, gives you Wither III while standing in it, but doesn't actually burn. Created by the Withering Ghast's Witherflame balls and the Wither's flying skulls.
 + New generated structure, the Lava Monument. Like a smaller version of the Ocean Monument with Magmuardians and Elder Magmuardians made with nether blocks, and has diamond blocks instead of gold.
 + New generated structure set, the Rifts. They generate in all dimensions, different versions spawning different mobs. What dimension does it lead to? Look at the ground underneath it and the mobs that spawn. These rifts can be closed by setting off an explosion nearby.
 + New item, Flamestring. Crafted with 1 string and 1 blaze powder. Can be used like tripwire, it's a little easier to see but it sets your unsuspecting victim on fire.
@@ -29,8 +28,6 @@ Welcome to the End of Hell. This update brings huge expansions to the Nether and
     + Wither Skeleton Fish is primarily used in potions. It can technically be eaten, but why would you want to? You lose half of your current HP and get Wither IV for 5 seconds. It also restores all 10 drumsticks.
     + Pigfish can be eaten to restore 4 drumsticks. Basically a cooked pork chop.
     ~ You can also find other things by fishing in lava. Fire-related enchanted books, Mending books, Protection and Blast Protection books, golden swords, gold nuggets and ingots (even a block if you're really lucky), roasted flesh, and Blaze rods.
-+ New block, End Cobblestone. Get it by breaking End Stone.
-+ New block, Nether Stone. Break it to get Netherrack.
 + New item, Stone Brick. Smelt Smooth Stone in a furnace to get one.
 + New item, End Stone Brick. Smelt Smooth End Stone in a furnace to get one.
 + Granite, Diorite, and Andesite stone bricks. Smelt one of them to get the corresponding stone brick item, normal stone bricks crafting logic applies.
@@ -50,43 +47,35 @@ Welcome to the End of Hell. This update brings huge expansions to the Nether and
     ~ All regular ores spawn up here alongside the Ambrosium, except for coal and diamond.
     ~ Grass and leaves are bluish.
     ~ No more clouds, cloud blocks instead. Just want to be clear on that.
-    ~ Torches and jack-o-lanterns do not work above Y 256, only sea lanterns, ambrosium torches, redstone torches, and glowstone. Fire goes out immediately, burns for normal time if on a forever-burn block (i.e. netherrack, magma).
+    ~ Torches and jack-o-lanterns do not work above Y 256, only sea lanterns, ambrosium torches, redstone torches/lamps, and glowstone. Fire goes out immediately, burns for normal time if on a forever-burn block (i.e. netherrack, magma).
 
 + New potion, the Potion of Charred Gills. Brewed with a Blazeel, it gives you Fire Resistance and Water Breathing.
 + New potion, the Potion of Weightlessness. Brewed with Ambrosium, it gives you Jump Boost and Slow Falling.
 + New potion, the Potion of Levitation. Brewed with a Shulker Shot, it gives you Levitation (duh)
 + New potion, the Potion of Withering. Brewed with a Wither Skeleton Fish, and I bet you can't guess what it gives you.
 ~ Remember the advancement when you defeat the Ender Dragon, "Free the End"? There's a very good reason it's called that. All of the following events happen when there is no Ender Dragon.
-    ~ Endermen and Phantoms are completely passive and have a different texture.           ~ Endermen don't attack even if you look them straight in the eyes.
+    ~ Endermen and Phantoms are completely passive and have a different texture.
+    ~ Endermen don't attack even if you look them straight in the eyes.
     ~ Endermen in all dimensions bring gifts. Overworld and Nether: Iron, redstone, and diamond blocks. End: Enditite blocks. Aether: Ambrosium blocks. Sometimes they bring food.
     ~ Endermen may try to hug you. Let them.
-    ~ Endermen make happier sounds than their normal distorted grunts (well, we hear them as grunts).
-    ~ Phantoms will let you hang on to them by right clicking, although they may sometimes just involuntarily pick you up. No speed control, just look around to steer. The Phantom will automatically grant you Slow Falling until you hit the ground.
-    ~ Phantoms spawn whenever, wherever, independent of how long ago you last slept, and do not disappear during the day.
+    ~ Endermen make happier sounds than their normal distorted speech.
 
 ~ Bedrock is now two jagged sheets with random holes, one sheet between the Overworld and Nether, the other between the Nether and End. The Nether/End sheet sometimes isn't there, explanation towards the bottom.
 ~ Phantoms no longer burn in the daylight, they just kinda... ...disperse.
-~ The Wither now spawns naturally in the Nether in the Soul Sand Deserts, although it's pretty rare. Be careful!
 ~ Ghasts come in various sizes now.
 ~ All mobs that drop rotten flesh will drop roasted flesh if they die while burning.
-~ End Stone is retextured to look like recolored Overworld stone, old End Stone texture is now on End Cobblestone.
-~ Nether Stone replaces Netherrack in new worlds, but not old ones. Same with old End Stone, now it's just renamed to End Cobblestone.
-~ Creepers now spawn in the Nether from portals, like Zombie Pigmen do in the Overworld.
-~ Zombie Pigmen now drop roasted flesh, and a chance of a cooked pork chop. Gold drops unchanged.
-~ Portal transportation is now instantaneous. No loading times!
-~ Portals are dynamic, meaning if you look in from one place, you can see the dimension on the other side.
-~ End portals behave like Nether portals as mentioned above, but they still have a translucent overlay of the mysterious particles like before.
+~ Creepers now spawn in the Nether from portals, like Zombie Piglins do in the Overworld.
+~ Piglins now drop the occasional raw porkchop. Other drops unchanged.
+~ Zombie Piglins now drop roasted flesh, and a chance of a cooked pork chop. Other drops unchanged.
+~ Portal transportation is now instantaneous. No loading times thanks to everything being in the same world!
+~ Portals are dynamic, meaning if you look in from one place, you can see the exit on the other side.
+~ End portals behave like Nether portals as mentioned above, but they still have a translucent overlay of those mysterious particles.
 ~ You can actually see when swimming in lava.
 ~ Enditite Pickaxe mines whole veins at once and breaks bedrock at the same speed as a diamond pickaxe on obsidian.
 ~ Enditite Axe, Pickaxe, and Shovel have automatic Magma Touch. (Automatic charcoal, glass, and ingots!)
 ~ Enditite Axe and Sword have automatic Fire Aspect II.
 ~ Ender Dragon no longer destroys blocks it runs into, it actually has to go around them now.
-~ New texture for Phantoms, more Ender-looking.
-~ Phantoms now appear in the End again, but much less than in the 1.13 snapshots. They do NOT spawn on the dragon island. They spawn more around End Cities.
-~ All ores from here on out will be avaliable in both the Nether and the Overworld unless stated otherwise. (Except Enditite)
 ~ You can now drown in lava.
-~ Smelt Nether Stone in a furnace to get a Nether Brick.
-~ You can now spawn the Wither with soul sand and wither skulls in the Nether ONLY.
 ~ When Endermen get angry, their eyes turn red.
 ~ Small and large versions of every brick type.
 - Removed Herobrine...? With so much new complexity, we're really not quite sure...

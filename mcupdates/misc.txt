@@ -50,9 +50,9 @@ This update adds a lot of tweaks and random new things.
 
 ==RESOURCE PACK CREATION DETAILS==
 
-Note: ^ is being used here as a shorthand for /assets/minecraft, and ^t for ^/textures
+Note: ^ is being used here as a shorthand for /assets/minecraft, ^t for ^/textures, ^m for ^/models
 
-There is now a folder ^/models/entity to go alongside blocks and items. These do not use JSON files, they use JEM and JPM files, which are short for JSON Entity/Part Model.
+There is now a folder ^m/entity to go alongside blocks and items. These do not use JSON files, they use JEM and JPM files, which are short for JSON Entity/Part Model.
 
 To use Connected Textures for a block, create a folder in ^m/textures/block with the name of the block. Create the textures like you would in OptiFine with .properties files.
 

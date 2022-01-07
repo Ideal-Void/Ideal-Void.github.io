@@ -1,6 +1,5 @@
 More farming makes more food! The way you farm and prepare food has been reworked, too.
 
-(Note, a few crafting recipes take cobblestone. Why? Think of it as a grindstone. You'll get the cobblestone back when you use it.)
 + New /gamerule, realisticLiquids. False by default, but if you turn it on, water, lava, etc. will be completely different. Source blocks don't exist. The Millibuckets (mB) unit commonly seen in mods now exists. Put simply, liquids behave like they do in Terraria, but in 3D.
 + New functionality to brewing stands, they can make juice. Juices take no blaze powder, and they cannot have their effects amplified. Instead of redstone dust to extend duration, use sugar to double the time of the primary effect. Basic juices take one fruit and ordinary water bottles.
 + New tool set, Knives. Crafted like a sword, but with only one non-stick item rather than two. Can be used as a weapon, deals less damage than a sword but has a very quick cooldown time.
@@ -11,22 +10,22 @@ More farming makes more food! The way you farm and prepare food has been reworke
 + New item, Straw. Harvest wheat to get it. Can be composted.
 + New item, Carrot Greens. Harvest carrots to get it. Can be composted.
 + New item, Beet Greens. Harvest beets to get it. Can be composted.
-+ New item, Flour. Put wheat berries and cobblestone in a crafting table to get it!
++ New item, Flour. Put wheat berries in a grindstone to get it!
 + New item, Dough. Put two flour and a bucket of water in a crafting table to get two dough! Bake it to get bread.
 + New item, Pastry Batter. Same crafting recipe as cake used to be. Bake it to get an unfrosted cake.
 + New tree, Cinnamon. Use it like any other tree.
 + New tree, Apple. Use it like any other tree, leaves drop apples.
 + New tree, Lemon. Use it like any other tree, leaves drop lemons.
 + New drink, Lemon Juice. Brew a lemon and water bottles, gives blindness for 2 seconds and nausea for 5 seconds, and haste II for 3 minutes. What? It's sour! What did you expect?
-+ New drink, Lemonade. Brew sugar with extended lemon juice, gives regeneration CCLVI for 5 seconds, Health Boost V for 2 minutes, and speed IV for 5 minutes.
++ New drink, Lemonade. Brew sugar with extended lemon juice, gives max Regeneration for 5 seconds, Health Boost V for 2 minutes, and Speed IV for 5 minutes.
 + New drink, Apple juice. Brew an apple and water bottles, gives regeneration III for 5 minutes, speed II for 2 minutes.
-+ New items, Bark. Get it by stripping logs, use 9 to make a 6 sided wood block.
++ New items, Bark. Get it by stripping logs, use 9 to make a 6-sided wood block.
 + New item, Dried Cinnamon Bark. Put regular cinnamon bark in a furnace to get it.
 + New item, Ground Cinnamon. Place a piece of cinnamon bark in a crafting table with cobblestone to get 8 ground cinnamon.
 + New crop, Vanilla. Harvest to get vanilla beans.
 + New item, Vanilla Bean. Use it in cooking.
 + New crop, Onion. Gives blindness if eaten raw, can be cooked. Crop looks like the Allium flower.
-+ New potion, Potion of Blindness. Brewed with an onion and Awkward Potions, gives blindness for 1 minute. Enhancement-wise, it behaves like Night Vision, Water Breathing, Fire Resistance, etc. in the fact that you can only extend it.
++ New potion, Potion of Blindness. Brewed with an onion and Awkward Potions, gives blindness for 1 minute. Enhancement-wise, it behaves like Night Vision, Water Breathing, Fire Resistance, etc. in the sense that you can only extend it, not amplify it.
 + New liquid, Saltwater. Find it in the oceans.
 + New ore, Salt. Mine it to get dirty salt.
 + New item, Dirty Salt. Put it in a bucket of freshwater to get a saltwater bucket. You can also right click any form of ice with it to instantly turn it into water (and use up the salt).
@@ -67,10 +66,9 @@ More farming makes more food! The way you farm and prepare food has been reworke
 + Crafting recipe for flint, five dirt and four gravel arranged like TNT gives 4 flint.
 ~ Suffocating in blocks has been changed. The air meter appears, but it drains twice as fast and Respiration enchantments have little effect. You take damage from the blocks hitting you, but you don't take any more until your air runs out. Then you take damage even faster than before.
 ~ You now make cookies, bread, and cake by putting their respective dough in a furnace. Same applies with all of the new pastries and breads.
-~ Cobblestone now has durability that drains when you use it in food crafting, can be used 64 times before it breaks into two flint. Can be placed like a normal block still.
+~ When you use cobblestone in these various grind crafting recipes, it has a chance to break into two flint.
 ~ All fish spawn only in saltwater, except for salmon, which can spawn in freshwater. (that's a biology joke)
 ~ Crafting recipe for sugar changed. You now use one sugar cane and one cobblestone.
-~ Beetroot soup renamed to Borscht, now takes three beets, a potato, an onion, and a carrot to craft.
 ~ Hay bale recipe changed, use straw.
 ~ Old water replaced with Freshwater.
 ~ Bottles of saltwater give nausea for a few seconds (have you ever tasted seawater? Nasty stuff).
