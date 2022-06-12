@@ -1,6 +1,6 @@
 'Nuff said. Good luck.
 
-+ Rare new Nether Fortress room. 
++ Rare new Nether Fortress room.
 + Rare new generated structure set, Castles. Fairly rare, spawn near Villages, Nether Fortresses, or End Cities.
 + Charged Slime blocks launch the player in the opposite of whatever direction they hit it from, even stronger than a regular slime block pushed by a piston.
 ~ Slimes of identical size now merge when they collide. Same applies to Magma Cubes.

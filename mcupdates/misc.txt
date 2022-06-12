@@ -11,7 +11,7 @@ This update adds a lot of tweaks and random new things.
 + Crafting recipe for the Trident in the Workbench.
 + New item, Guardian Spike. Get one by killing an Elder Guardian.
 + New enchantment for helmets, Illumination. Lights up the area around you, like a headlamp! Level I is like a redstone torch, II is a regular torch, III is glowstone.
-+ New enchantment for boots, Magma Walker. Acts just like Frost Walker, but for lava. Also, you take no damage when walking on magma blocks! 
++ New enchantment for boots, Magma Walker. Acts just like Frost Walker, but for lava. Also, you take no damage when walking on magma blocks!
 + New enchantment for buckets, Holding. Max level IV. Each level lets the bucket hold another block of liquid at a time. Works with milk, too! Because of this, buckets now can hold multiple fish. Fish contained in the bucket are listed in the tooltip in the order they will be placed. Buckets cannot contain more than one liquid type at once. (No water and lava in the same bucket, no fresh and salt water in one bucket). If you try to put water and lava in the same bucket, a block of obsidian or cobblestone in your inventory, and you will find yourself with an empty bucket. Cobblestone is much more likely, as getting obsidian without a diamond pickaxe is a little cheaty.
 + Place gunpowder and use it as a fuse! TNT explodes instantly if lit from a fuse.
 + Every material that has a wall now has a gate.
@@ -22,11 +22,11 @@ This update adds a lot of tweaks and random new things.
 + MANY many many crafting shortcuts, such as a bow recipe with a dropper in the middle makes a dispenser, multiple recipes at once in the workbench, etc.
 + New climbing animation for when you go up ladders and vines.
 + Some popular mods have been integrated into Minecraft. This might seem kinda weird, but where would we be without pistons and horses? They originally came from mods, after all.
-    + New enchantment for tools, Proficiency, acts like VeinMiner. You need to hold your sneak key to use the enchantment, and let go when you want to stop. Be careful, as you can eat through your entire Unbreaking III diamond pickaxe if you aren't careful! Just kidding, enchanted diamond tools stop when there's just one durability point left so you can go repair it. All non-enchanted, non-diamond tools will break.
-    + New minimap, appears in the top right corner of the screen. Can be configured or turned off in settings, you can set waypoints using various block textures or mob faces for icons. You can't use it when you first start a world, you have to actually make a map item first. Then the minimap will be there forever in that world, unless you turn it off.
-    + "Inventory Tweaks" has been integrated. There are now buttons to sort items in containers, and you can auto-replace tools when or shortly before they break!
-    + "Mouse Wheelie" has been integrated. You can move items to and from containers with your mouse wheel!
-    + "OptiFine" has been integrated, shaders and CTM and all. There's tons more capabilities for resource packs now, check the end of the update notes for more details.
+	+ New enchantment for tools, Proficiency, acts like VeinMiner. You need to hold your sneak key to use the enchantment, and let go when you want to stop. Be careful, as you can eat through your entire Unbreaking III diamond pickaxe if you aren't careful! Just kidding, enchanted diamond tools stop when there's just one durability point left so you can go repair it. All non-enchanted, non-diamond tools will break.
+	+ New minimap, appears in the top right corner of the screen. Can be configured or turned off in settings, you can set waypoints using various block textures or mob faces for icons. You can't use it when you first start a world, you have to actually make a map item first. Then the minimap will be there forever in that world, unless you turn it off.
+	+ "Inventory Tweaks" has been integrated. There are now buttons to sort items in containers, and you can auto-replace tools when or shortly before they break!
+	+ "Mouse Wheelie" has been integrated. You can move items to and from containers with your mouse wheel!
+	+ "OptiFine" has been integrated, shaders and CTM and all. There's tons more capabilities for resource packs now, check the end of the update notes for more details.
 ~ Crafting tables can now uncraft items, but at a cost of XP. Make too much Magma Cream and need Ender eyes? Uncraft it for a few levels to get the Blaze powder (and slime balls) back! Mineral blocks, etc can still be turned back for free.
 ~ Eat sugar for Speed V for 10 seconds. You can eat it instantly like in Minecraft beta versions!
 ~ If a Slime falls in lava, it is immediately turned into a Magma Cube.
@@ -41,7 +41,7 @@ This update adds a lot of tweaks and random new things.
 ~ Larger magma cubes have a chance of dropping magma cream blocks instead of magma cream.
 ~ You can now hold your sprint key and your sneak key at the same time to crawl. No need for pistons or trapdoors!
 ~ Crawling no longer uses the swimming animation, but now has its own.
-~ You can put lanterns, sea lanterns, glowstone, and jack-o-lanterns on your head now. Because of the OptiFine integration, they will shine light around you as you walk. Why does this matter if there's the Illumination enchantment? These four items offer no protection, but the helmets do. 
+~ You can put lanterns, sea lanterns, glowstone, and jack-o-lanterns on your head now. Because of the OptiFine integration, they will shine light around you as you walk. Why does this matter if there's the Illumination enchantment? These four items offer no protection, but the helmets do.
 ~ Maps are now for the most part decoration items, and they're automatically filled out (if you've been there) when you use them. Big maps on walls using item frames look very nice, that's part of the reason we didn't get rid of them.
 ~ Right click any fence block with another fence block of the same material to turn it into a wall block, at the cost of that fence block. Right click with an empty hand to turn it back into a fence.
 - Removed Wall blocks.

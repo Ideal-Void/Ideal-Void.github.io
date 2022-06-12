@@ -3,7 +3,7 @@ This update brings huge expansions to the End, some more additions to the Nether
 + New food, Roasted Flesh. Doesn't give you the Hunger debuff. Get it by cooking rotten flesh in a furnace.
 + New tree, Pearlleaf. Spawns in the End, can be used like any other tree. Wood has a yellowish color, like the End Stone. Leaves have a chance to drop chorus fruit and/or Ender pearls.
 + Three new Nylium-based biomes in the Nether, Withered Forest, Inverse Fields, and River Styx. The Withered Forest is black and dead looking, with shriveled giant Wither Roses. Wither skeletons spawn here frequently, and there's even a rare chance for an actual Wither. The Inverse Fields actually generate on the ceiling of the Nether, and have bright yellow Nylium. The River Styx has acid-green Nylium with a hot, acidic, and overall nasty substance flowing through it.
-+ New enchantment, Magma Touch. Tools with this enchantment auto-smelt mined blocks, at the cost of using slightly more durability. Having Unbreaking II will completely counteract the extra drain. Better get those Mending books ready! A note for shovels... If a shovel has Magma Touch, you will get four bricks instead of four clay balls from a clay block. If a shovel has Silk Touch as well, you will get a Terracotta block instead! 
++ New enchantment, Magma Touch. Tools with this enchantment auto-smelt mined blocks, at the cost of using slightly more durability. Having Unbreaking II will completely counteract the extra drain. Better get those Mending books ready! A note for shovels... If a shovel has Magma Touch, you will get four bricks instead of four clay balls from a clay block. If a shovel has Silk Touch as well, you will get a Terracotta block instead!
 + New mob, the Charred. A zombie-like creature that appears in the Nether, drops roasted flesh and charcoal on death. Will set whatever it attacks on fire. If it stands still for five seconds, it will set the block it's standing on on fire. Swims in lava like the Drowned swim in water. If it comes into contact with water, it will extinguish into a Husk in a few seconds. If any Zombie, Husk, or Drowned burns to death, it will turn into one of these.
 + New mob, the Corrupted. A zombie-like creature that appears in the End, drops rotten flesh and Enditite Nuggets on death. Is hurt by water, burns in Overworld daylight. When it attacks, it teleports behind you and gives you blindness for 5 seconds.
 + New mob, the Withering Ghast. A larger, faster, darker Ghast whose fireballs leave behind Witherflame when they explode.
@@ -23,42 +23,42 @@ This update brings huge expansions to the End, some more additions to the Nether
 + New item, the Dragon Saddle. Craft it by surrounding a saddle with Enditite Ingots.
 + New mob, the Pet Dragon. Feed it meat to make it grow bigger, but be careful! It will eventually rebel if it gets big enough (Another Ender Dragon fight in any dimension)! You can ride it if you put on a dragon saddle, left click to shoot a dragon fireball, right click to dash. If you get off midair, it will circle and glide to the ground beside you.
 + New lava fish! Catch them with the Blaze Fisher in lava.
-    + Blazeel is used in potions, can be eaten to restore 5 drumsticks of hunger, but it's extra spicy (you get set on fire for less than 30 seconds).
-    + Right click with a Ghasting Ray in hand to shoot an explosive fireball! After 8 shots, the fish is depleted and can be eaten. Restores 2 drumsticks and gives regeneration III for 10 seconds.
-    + Wither Skeleton Fish is primarily used in potions. It can technically be eaten, but why would you want to? You lose half of your current HP and get Wither IV for 5 seconds. It also restores all 10 drumsticks.
-    + Pigfish can be eaten to restore 4 drumsticks. Basically a cooked pork chop.
-    ~ You can also find other things by fishing in lava. Fire-related enchanted books, Mending books, Protection and Blast Protection books, golden swords, gold nuggets and ingots (even a block if you're really lucky), roasted flesh, and Blaze rods.
+	+ Blazeel is used in potions, can be eaten to restore 5 drumsticks of hunger, but it's extra spicy (you get set on fire for less than 30 seconds).
+	+ Right click with a Ghasting Ray in hand to shoot an explosive fireball! After 8 shots, the fish is depleted and can be eaten. Restores 2 drumsticks and gives regeneration III for 10 seconds.
+	+ Wither Skeleton Fish is primarily used in potions. It can technically be eaten, but why would you want to? You lose half of your current HP and get Wither IV for 5 seconds. It also restores all 10 drumsticks.
+	+ Pigfish can be eaten to restore 4 drumsticks. Basically a cooked pork chop.
+	~ You can also find other things by fishing in lava. Fire-related enchanted books, Mending books, Protection and Blast Protection books, golden swords, gold nuggets and ingots (even a block if you're really lucky), roasted flesh, and Blaze rods.
 + New item, Stone Brick. Smelt Smooth Stone in a furnace to get one.
 + New item, End Stone Brick. Smelt Smooth End Stone in a furnace to get one.
 + Granite, Diorite, and Andesite stone bricks. Smelt one of them to get the corresponding stone brick item, normal stone bricks crafting logic applies.
 + Crafting recipe for saddles, just craft a leather helmet with a string and an iron ingot or tripwire hook in the middle.
 
 + Whole new dimension, the Aether. Yes, similar to the ancient mod, you can use a glowstone portal with a water bucket to get to it, or you can go above Y 256. Generates similarly to the End with floating islands. No super fancy dungeons, though. That's too... I don't know... not Minecraftish?
-    + Cirrus, tries to blow you off the islands.
-    + Cumulus, tries to drop acid rain on you.
-    + Cumulonimbus, tries to strike you with lightning.
-    + Evaporated, another zombie in the mix, but ghost-like. Can fly, but not through blocks. The Vexes have already taken care of that department...
-    + Cloud/winged variants of some passive Overworld mobs that can float.
-    + Aether-exclusive ore, Ambrosium, which drops shards when mined. Make special torches that work in these cold thin-atmosphere conditions, and use it as furnace fuel up here. Ambrosuim blocks emit light like glowstone.
-    + New food, Ambrosia. The favorite food of the gods, cook an Ambrosium Shard in a furnace in the Aether to get it. Eat it for an effect like a nerfed golden apple. Trying to cook an Ambrosium Shard anywhere other than the Aether will give you a... random... stone block...?
-    + New drink, Nectar. This godly drink gives you Regeneration V for 5 minutes, as well as Instant Health V. So, you'll be fully restored and quickly regenerate if you're to take damage afterward. Brew an Ambrosium Block with Regeneration II potions to get some! It takes a lot of Blaze Powder fuel to brew it.
-    + New tree, Cloudwood. Spawns in the Aether, can be used like any other tree. Wood has a bluish color to it.
-    + Cloud blocks. You can see them no matter what your render distance is set to, previous versions' non-functional aesthetic clouds no longer exist. If you fall on white clouds, you will slowly sink through out the other side, though not as slowly as cobwebs. If you fall on storm clouds, you will stay on top and receive an insane jump boost, as if your feet got supercharged by the electricity crackling through the cloud.
-    ~ All regular ores spawn up here alongside the Ambrosium, except for coal and diamond.
-    ~ Grass and leaves are bluish.
-    ~ No more clouds, cloud blocks instead. Just want to be clear on that.
-    ~ Torches and jack-o-lanterns do not work above Y 256, only sea lanterns, ambrosium torches, redstone torches/lamps, and glowstone. Fire goes out immediately, burns for normal time if on a forever-burn block (i.e. netherrack, magma).
+	+ Cirrus, tries to blow you off the islands.
+	+ Cumulus, tries to drop acid rain on you.
+	+ Cumulonimbus, tries to strike you with lightning.
+	+ Evaporated, another zombie in the mix, but ghost-like. Can fly, but not through blocks. The Vexes have already taken care of that department...
+	+ Cloud/winged variants of some passive Overworld mobs that can float.
+	+ Aether-exclusive ore, Ambrosium, which drops shards when mined. Make special torches that work in these cold thin-atmosphere conditions, and use it as furnace fuel up here. Ambrosuim blocks emit light like glowstone.
+	+ New food, Ambrosia. The favorite food of the gods, cook an Ambrosium Shard in a furnace in the Aether to get it. Eat it for an effect like a nerfed golden apple. Trying to cook an Ambrosium Shard anywhere other than the Aether will give you a... random... stone block...?
+	+ New drink, Nectar. This godly drink gives you Regeneration V for 5 minutes, as well as Instant Health V. So, you'll be fully restored and quickly regenerate if you're to take damage afterward. Brew an Ambrosium Block with Regeneration II potions to get some! It takes a lot of Blaze Powder fuel to brew it.
+	+ New tree, Cloudwood. Spawns in the Aether, can be used like any other tree. Wood has a bluish color to it.
+	+ Cloud blocks. You can see them no matter what your render distance is set to, previous versions' non-functional aesthetic clouds no longer exist. If you fall on white clouds, you will slowly sink through out the other side, though not as slowly as cobwebs. If you fall on storm clouds, you will stay on top and receive an insane jump boost, as if your feet got supercharged by the electricity crackling through the cloud.
+	~ All regular ores spawn up here alongside the Ambrosium, except for coal and diamond.
+	~ Grass and leaves are bluish.
+	~ No more clouds, cloud blocks instead. Just want to be clear on that.
+	~ Torches and jack-o-lanterns do not work above Y 256, only sea lanterns, ambrosium torches, redstone torches/lamps, and glowstone. Fire goes out immediately, burns for normal time if on a forever-burn block (i.e. netherrack, magma).
 
 + New potion, the Potion of Charred Gills. Brewed with a Blazeel, it gives you Fire Resistance and Water Breathing.
 + New potion, the Potion of Weightlessness. Brewed with Ambrosium, it gives you Jump Boost and Slow Falling.
 + New potion, the Potion of Levitation. Brewed with a Shulker Shot, it gives you Levitation (duh)
 + New potion, the Potion of Withering. Brewed with a Wither Skeleton Fish, and I bet you can't guess what it gives you.
 ~ Remember the advancement when you defeat the Ender Dragon, "Free the End"? There's a very good reason it's called that. All of the following events happen when there is no Ender Dragon.
-    ~ Endermen and Phantoms are completely passive and have a different texture.
-    ~ Endermen don't attack even if you look them straight in the eyes.
-    ~ Endermen in all dimensions bring gifts. Overworld and Nether: Iron, redstone, and diamond blocks. End: Enditite blocks. Aether: Ambrosium blocks. Sometimes they bring food.
-    ~ Endermen may try to hug you. Let them.
-    ~ Endermen make happier sounds than their normal distorted speech.
+	~ Endermen and Phantoms are completely passive and have a different texture.
+	~ Endermen don't attack even if you look them straight in the eyes.
+	~ Endermen in all dimensions bring gifts. Overworld and Nether: Iron, redstone, and diamond blocks. End: Enditite blocks. Aether: Ambrosium blocks. Sometimes they bring food.
+	~ Endermen may try to hug you. Let them.
+	~ Endermen make happier sounds than their normal distorted speech.
 
 ~ Bedrock is now two jagged sheets with random holes, one sheet between the Overworld and Nether, the other between the Nether and End. The Nether/End sheet sometimes isn't there, explanation towards the bottom.
 ~ Phantoms no longer burn in the daylight, they just kinda... ...disperse.

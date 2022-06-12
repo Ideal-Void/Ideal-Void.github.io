@@ -20,7 +20,7 @@ Lots of you didn't like the new combat system in 1.9. Let's fix that and dump in
 + New armor sets, Heavy Armor. Provides more protection, but slows you down by 50%. Chain and leather do not have heavy variants.
 + New armor sets, Medium Armor. It's just the default armor, but now it slows you down by 25%. Leather does not have a medium variant, it's just... leather.
 + New armor sets, Light Armor. Provides less protection, but lets you move at full speed.
-+ New shields for all equipment sets. Differences are what you would expect, diamond lasts longer and provides more protection than wood. 
++ New shields for all equipment sets. Differences are what you would expect, diamond lasts longer and provides more protection than wood.
 + Function for the Smithing Table. Upgrade weapons and armor with it! Add two materials of the corresponding set (leather, iron nugget, iron ingot, gold ingot, diamond) to upgrade a tool/weapon/armor piece to the next level, the exceptions being Hammer-->Sledgehammer, which takes blocks and Spear-->Glaive, which you use sticks instead. You have a choice of upgrading a Sword to a Longsword or Broadsword.
 + Give an armor stand a hay bale as a hat to turn it into a training dummy (it never breaks when punched)! Right click it to remove the hay bale and turn it back into an armor stand.
 + New weapon, the Starblaster. Crafted with two nether stars, a beacon, a lever, and five obsidian, right click while aiming at a mob to deal immense damage with a particle beam. Also mines blocks! Has a lot of durability, but it will get too hot and burn you if you use it for too long. You'll need to wait for it to cool down or throw it in water to be able to use it again.

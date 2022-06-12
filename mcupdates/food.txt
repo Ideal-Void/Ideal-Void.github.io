@@ -37,19 +37,19 @@ More farming makes more food! The way you farm and prepare food has been reworke
 + New thirst system, works like hunger system but with water drop icons. Drinking freshwater bottles raise it by 5 drops, all potions and juices raise it by 3 drops, and saltwater raises it by 1 drop. Swimming raises it by 0.5 drops every 15 seconds in freshwater, and stops it depleting in saltwater (but doesn't regenerate it either). Depletes faster in hot biomes.
 
 + New pastries! Craft ingredients with pastry batter to get these. Bake them in a furnace or smoker to get the finished food!
-    Cocoa beans for cookie dough,
-    Chocolate for brownie dough,
-    Cocoa beans AND chocolate for double-chocolate cookie dough,
-    Two apples and some ground cinnamon for unbaked apple pie,
-    A pumpkin for unbaked pumpkin pie,
-    A lemon for lemon square dough,
-    Cinnamon and ice for cinnamon roll dough!
+	Cocoa beans for cookie dough,
+	Chocolate for brownie dough,
+	Cocoa beans AND chocolate for double-chocolate cookie dough,
+	Two apples and some ground cinnamon for unbaked apple pie,
+	A pumpkin for unbaked pumpkin pie,
+	A lemon for lemon square dough,
+	Cinnamon and ice for cinnamon roll dough!
 
 + More kinds of cakes! Put an unfrosted cake, ice, and a listed ingredient to frost a cake.
-    Chocolate cake, chocolate.
-    Vanilla cake, vanilla bean. (this one looks like the original cake!)
-    Lemon cake, lemon juice.
-    Carrot cake, carrot.
+	Chocolate cake, chocolate.
+	Vanilla cake, vanilla bean. (this one looks like the original cake!)
+	Lemon cake, lemon juice.
+	Carrot cake, carrot.
 
 + New item, Yeast Bottle. Right click with an empty bottle in the air to have a chance to get some. Different biomes have different yeasts.
 + New item, Bottle of Sourdough Starter. Craft a yeast bottle with a water bottle to get two.

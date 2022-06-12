@@ -20,9 +20,8 @@ Yeah, Caves and Cliffs added a lot, but perhaps some new additions are in order?
 ~ Magma blocks now generate around underground lava, or in lava lakes on the surface!
 ~ Lava buckets no longer smelt 100 items; they now smelt only 64 items.
 ~ Wooden armor has variants for all types of logs.
-~ Gold is insanely overpowered. All tools break blocks instantly and you take no damage with the armor on, but it breaks four times faster than it already did.
-~ Caves now age! It's hard to describe. Vines and mushrooms grow, teeny tiny stalagmites/stalactites form, etc.
-~ Remember the eerie cave noises? Well now if you hear one, find or make some light, or apply Night Vision right away. If you're not careful, you might not make it out of that cave...
+~ Gold is far more powerful. All tools break blocks instantly with Efficiency V and you take no damage with the armor on, but it deteriorates four times faster than it did before.
+~ Remember the eerie cave noises? Well now if you hear one in the Deep Dark, find or make some light, or apply Night Vision right away. If you're not careful, the darkness may consume you...
 ~ Emerald ore is now just as rare as diamond.
 ~ There is now dynamic light, like in OptiFine.
 ~ You can coat your face in glowstone dust to light up your surroundings as you walk.

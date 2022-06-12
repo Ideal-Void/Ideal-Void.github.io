@@ -21,11 +21,11 @@ Supplementary textures are taken from entities and/or colored yourself with the 
 Changing your model type will take a nether star from your inventory. If you don't have a nether star, you won't change.
 You can change the proportions of your body parts for free (say a bigger head or beefier arms).
 
-    Normal, unlocked and used by default.
-    Small, breed 10 animals to unlock. Your hitbox is 1 block tall, you can fit in smaller spaces. You also walk slightly slower.
-    Centaur, tame 5 horses to unlock. You can run up full blocks like they were stairs, and you also run faster and jump a block higher.
-    Cloud, reach build limit to unlock. You fall at half speed and take half as much fall damage. You also jump a block higher.
-    Harpy, kill 100 chickens to unlock. You can double jump, 2 blocks per jump.
-    Cat-person, tame 5 cats to unlock. You can run faster, and climb walls to a small extent.
-    Spiderlord, kill 100 spiders and/or cave spiders to unlock. You can climb up walls with no limit, but you move slightly slower.
-    Notsilverfish, kill 25 silverfish to unlock. Sneaking makes you invisible entirely.
+	Normal, unlocked and used by default.
+	Small, breed 10 animals to unlock. Your hitbox is 1 block tall, you can fit in smaller spaces. You also walk slightly slower.
+	Centaur, tame 5 horses to unlock. You can run up full blocks like they were stairs, and you also run faster and jump a block higher.
+	Cloud, reach build limit to unlock. You fall at half speed and take half as much fall damage. You also jump a block higher.
+	Harpy, kill 100 chickens to unlock. You can double jump, 2 blocks per jump.
+	Cat-person, tame 5 cats to unlock. You can run faster, and climb walls to a small extent.
+	Spiderlord, kill 100 spiders and/or cave spiders to unlock. You can climb up walls with no limit, but you move slightly slower.
+	Notsilverfish, kill 25 silverfish to unlock. Sneaking makes you invisible entirely.

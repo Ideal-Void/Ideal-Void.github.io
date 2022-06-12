@@ -3,9 +3,9 @@ Infinite Power! This update adds electricity, some machines, and Redstone compon
 (Power unit is joules. J/T is joules per tick.)
 
 + Power Tools! Faster and stronger versions of normal tools. Power tools do not break! They just run out of power and need a recharge.
-    Drill, breaks what the next level pickaxe can. (i.e. Iron drill can break obsidian.) Also works as a shovel!
-    Chainsaw, cuts whole trees at once. Does more damage than an axe (and axes already deal more damage than swords).
-    Rototiller, acts like a hoe. Don't ask.
+	Drill, breaks what the next level pickaxe can. (i.e. Iron drill can break obsidian.) Also works as a shovel!
+	Chainsaw, cuts whole trees at once. Does more damage than an axe (and axes already deal more damage than swords).
+	Rototiller, acts like a hoe. Don't ask.
 
 + New wearable, Jetpack. Hold your Jump key to fly, and be sure you have some fuels in your inventory (coal, wood, blaze rods, etc). Gunpowder makes you fly up super fast! Just make sure you have no TNT in your inventory, the jetpack will explode and take you out with it. Also, it's like it has a Curse of Vanishing: it won't drop when it kills you. If you're near any blocks, it'll leave a sizeable crater.
 + New wearable, Electric Jetpack. Charge it up and hold your Jump key to fly!
@@ -26,13 +26,13 @@ Infinite Power! This update adds electricity, some machines, and Redstone compon
 + New block, Gold Wire. Use it to connect electrical components together at 30 J/T. Two gold ingots and one Cobalt dust.
 + New block, the Battery. Stores power, has a little indicator on the sides, keeps power when broken. Can be any size, as they connect if they are adjacent. Place an item that requires power inside to charge it (drill, chainsaw, electric jetpack, etc). Place it directly next to a machine block for instant power transfer, no need for wires.
 + New block set, Pipes. Transfers items like hoppers, but in any direction (with no inventory like the hoppers, though). You can even see the items inside!
-    Regular pipes (iron ingot x6, glass x3) (all other pipes are based on this recipe)
-    Fast pipes (steel ingots) (good for long-distance transport)
-    Extraction pipes (gold ingots) (pulls items from containers like chests/dispensers/furnaces etc at 4 items/sec)
-    Routing pipes (one redstone dust in the center) (sends items from multiple sources in one direction)
-    Sorting pipes (one diamond in the center and a different dye in each corner) (sends different items different directions)
-    Activate a redstone source next to an extraction pipe to actually make it extract from the chest, dispenser, furnace, etc that it's placed next to. Right click a routing pipe to change where the items in it are supposed to go. Right click a sorting pipe to bring up a menu to select up to 9 item types to go in each direction.
-    You can use hoppers to put items into pipes automatically, just as long as the hopper faces the pipe! No extractor necessary.
+	Regular pipes (iron ingot x6, glass x3) (all other pipes are based on this recipe)
+	Fast pipes (steel ingots) (good for long-distance transport)
+	Extraction pipes (gold ingots) (pulls items from containers like chests/dispensers/furnaces etc at 4 items/sec)
+	Routing pipes (one redstone dust in the center) (sends items from multiple sources in one direction)
+	Sorting pipes (one diamond in the center and a different dye in each corner) (sends different items different directions)
+	Activate a redstone source next to an extraction pipe to actually make it extract from the chest, dispenser, furnace, etc that it's placed next to. Right click a routing pipe to change where the items in it are supposed to go. Right click a sorting pipe to bring up a menu to select up to 9 item types to go in each direction.
+	You can use hoppers to put items into pipes automatically, just as long as the hopper faces the pipe! No extractor necessary.
 + New redstone component, Nullifier. It acts like a dispenser, you put items in it and give it redstone power, except instead of spitting a random item out, it just deletes it. Erases it. Sends it to /dev/null. Nothing left of it. Be careful with your diamonds!
 + New machine, Fan. Connect some power and pull a lever, and it blows away whatever is in a direct line of sight in front of it.
 + New machine, the Power Crafter. Place items in a crafting recipe, feed items into and out of it through hoppers, and you've got automatic crafting! Uses 10 J/T.
