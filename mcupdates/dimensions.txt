@@ -50,7 +50,7 @@ This update brings huge expansions to the End, some more additions to the Nether
 	~ Torches and jack-o-lanterns do not work above Y 256, only sea lanterns, ambrosium torches, redstone torches/lamps, and glowstone. Fire goes out immediately, burns for normal time if on a forever-burn block (i.e. netherrack, magma).
 
 + New potion, the Potion of Charred Gills. Brewed with a Blazeel, it gives you Fire Resistance and Water Breathing.
-+ New potion, the Potion of Weightlessness. Brewed with Ambrosium, it gives you Jump Boost and Slow Falling.
++ New potion, the Potion of the Moonwalker. Brewed with Ambrosium, it gives you Jump Boost and Slow Falling.
 + New potion, the Potion of Levitation. Brewed with a Shulker Shot, it gives you Levitation (duh)
 + New potion, the Potion of Withering. Brewed with a Wither Skeleton Fish, and I bet you can't guess what it gives you.
 ~ Remember the advancement when you defeat the Ender Dragon, "Free the End"? There's a very good reason it's called that. All of the following events happen when there is no Ender Dragon.
@@ -61,7 +61,7 @@ This update brings huge expansions to the End, some more additions to the Nether
 	~ Endermen make happier sounds than their normal distorted speech.
 
 ~ Bedrock is now two jagged sheets with random holes, one sheet between the Overworld and Nether, the other between the Nether and End. The Nether/End sheet sometimes isn't there, explanation towards the bottom.
-~ Phantoms no longer burn in the daylight, they just kinda... ...disperse.
+~ Phantoms no longer burn in the daylight, they just kinda...disperse.
 ~ Ghasts come in various sizes now.
 ~ All mobs that drop rotten flesh will drop roasted flesh if they die while burning.
 ~ Creepers now spawn in the Nether from portals, like Zombie Piglins do in the Overworld.
@@ -78,5 +78,5 @@ This update brings huge expansions to the End, some more additions to the Nether
 ~ You can now drown in lava.
 ~ When Endermen get angry, their eyes turn red.
 ~ Small and large versions of every brick type.
-- Removed Herobrine...? With so much new complexity, we're really not quite sure...
+- Removed Herobrine.
 (Note for modders, Enditite is the same as Thermal Expansion's Enderium as far as the Ore Dictionary is concerned.)
