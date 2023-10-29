@@ -7,7 +7,7 @@ Infinite Power! This update adds electricity, some machines, and Redstone compon
 	Chainsaw, cuts whole trees at once. Does more damage than an axe (and axes already deal more damage than swords).
 	Rototiller, acts like a hoe. Don't ask.
 
-+ New wearable, Jetpack. Hold your Jump key to fly, and be sure you have some fuels in your inventory (coal, wood, blaze rods, etc). Gunpowder makes you fly up super fast! Just make sure you have no TNT in your inventory, the jetpack will explode and take you out with it. Also, it's like it has a Curse of Vanishing: it won't drop when it kills you. If you're near any blocks, it'll leave a sizeable crater.
++ New wearable, Jetpack. Hold your Jump key to fly, and be sure you have some fuels in your inventory (coal, wood, blaze rods, etc). Gunpowder makes you fly up super fast! Just make sure you have no TNT in your inventory, the jetpack will explode and take you out with it. It won't drop when it kills you, and if you're near any blocks, it'll leave a sizeable crater.
 + New wearable, Electric Jetpack. Charge it up and hold your Jump key to fly!
 + New wearables, Armored Jetpacks. Combine a chestplate of any kind with a jetpack of either kind, and it'll give you armor. However, you don't go upwards as fast.
 + New ore, Cobalt. Can be made into special Cobalt wire that can be placed and powered by Cobalt blocks/torches to make redstone components behave in odd ways.
@@ -20,7 +20,6 @@ Infinite Power! This update adds electricity, some machines, and Redstone compon
 + Dyed Slime Blocks. They behave just like regular slime blocks, but different colors don't stick to each other.
 + Slimes of all 16 colors, and 16 colors of slime balls!
 + Copper tools and armor that are between chain and iron in strength and durability.
-+ New liquid, Oil. Can be found like the random water and lava pools, collect it in a bucket and use it as fuel as efficient as two coal per bucket. Pools are especially common in Desert and Beach biomes.
 + New block, Copper Wire. Use it to connect electrical components together at 10 J/T. Two copper ingots and one Redstone dust.
 + New block, Iron Wire. Use it to connect electrical components together at 20 J/T. Two iron ingots and one Redstone dust.
 + New block, Gold Wire. Use it to connect electrical components together at 30 J/T. Two gold ingots and one Cobalt dust.
@@ -43,12 +42,12 @@ Infinite Power! This update adds electricity, some machines, and Redstone compon
 + New generator, the Combustion Generator. Makes various amounts of power depending on what fuel you give it. The Thermal Generator can make 5 J/T off of this, too!
 + New machine, Press. Use it to compress blocks automatically, 60 J/T (you're gonna need two gold wires going into it). You might even be able to crush coal into diamonds if you do it right...
 + Compressed blocks. Have too many junk blocks? Compress them! Goes up to dectuple compression (3.486 billion blocks in one block) for cobblestone, quintuple (~60 thousand) for everything else. Works with cobblestone, dirt, sand, gravel, and more.
-+ New block, Singularity. When placed, is very difficult to pick back up as it sucks you and other nearby entities in and swirls you around. Also sucks up nearby blocks in a much smaller range. Useful for mob farms! To craft it, just use java.lang.StackOverflowError: Cobblestone
-~ You can now break bedrock with a netherite drill, which takes an entire 60 seconds per block. Have fun!
++ New block, Singularity. When placed, is very difficult to pick back up as it sucks you and other nearby entities in and swirls you around. Also sucks up nearby blocks in a much smaller range. Useful for mob farms! To craft it, just use java.lang.IndexOutOfBoundsException cobblestone.
+~ You can now break bedrock with a netherite drill, which takes an entire 60 seconds per block at Efficiency V and Haste II. Have fun!
 ~ Hoppers powered with cobalt can vacuum things up from a distance!
 ~ Droppers and dispensers have been merged! Cobalt makes it behave like a dropper, redstone makes it behave like a dispenser. Collective block is called the dispenser.
 ~ For those of you wondering, no. You cannot make a self-sustaining electric furnace with a thermal generator. It can last quite a bit longer, but not forever.
 ~ Slime block recipe changed. Make an O shape of 8 slime balls of any mix of colors and place a dye in the center, or you can do the same thing with of slime balls of the same color, and not use dye.
-~ Slime blocks can be uncrafted into slime balls of their own color. 
+~ Slime blocks can be uncrafted into slime balls of their own color.
 - Removed placeable Redstone Dust, it will be replaced automatically in your worlds with Redstone Wire. (You might end up wanting to rebuild everything anyway, though... Everything can be so much more compact!)
 - Removed Herobrine.

@@ -63,8 +63,8 @@ More farming makes more food! The way you farm and prepare food has been reworke
 + New block, Rope. Craft 4 ropes with 3 straw in a line! You can right click to place it on the bottom side of a block, or you can throw it upwards until it hits a block, and it will descend as far as it can depending on how much you have in your inventory! You can climb it like you would a ladder or vine, except you have to told your jump key, not your forward key. You can use your forward key if the rope is against a wall.
 + Crafting recipe for cobblestone, nine flint in a square.
 + Crafting recipe for gravel, four flint in a square.
-+ Crafting recipe for flint, five dirt and four gravel arranged like TNT gives 4 flint.
-~ Suffocating in blocks has been changed. The air meter appears, but it drains twice as fast and Respiration enchantments have little effect. You take damage from the blocks hitting you, but you don't take any more until your air runs out. Then you take damage even faster than before.
++ Crafting recipe for flint, five dirt and four gravel arranged like TNT gives 16 flint.
+~ Suffocating in blocks has been changed. The air meter appears, but it drains twice as fast and Respiration enchantments have no effect. You take damage from the blocks hitting you, but you don't take any more until your air runs out. Then you take damage even faster than before.
 ~ You now make cookies, bread, and cake by putting their respective dough in a furnace. Same applies with all of the new pastries and breads.
 ~ When you use cobblestone in these various grind crafting recipes, it has a chance to break into two flint.
 ~ All fish spawn only in saltwater, except for salmon, which can spawn in freshwater. (that's a biology joke)
@@ -83,5 +83,5 @@ More farming makes more food! The way you farm and prepare food has been reworke
 ~ Default /gamerule randomTickSpeed is now 5, so things will grow a liiiiitle bit faster than before. Open the world to LAN and enable cheats to change your old cheats-disabled worlds to this if you want.
 - Oak trees no longer drop apples.
 - Removed old six-sided wood recipe.
-- Removed Alliums.
+- Removed Allium flowers, replaced with mature onion plants.
 - Removed Herobrine.
