@@ -3,10 +3,7 @@
 
 <head>
 	<script language="javascript" type="text/javascript">
-		function search() {
-			var searchTerm = document.getElementById('searchBar').value;
-			window.open("https://github.com/search?q=" + searchTerm + "+owner%3ASuperTux20&type=repositories");
-		}
+		function search() { window.open("https://github.com/search?q=" + document.getElementById('searchBar').value + "+owner%3ASuperTux20&type=repositories"); }
 	</script>
 	<title>Pengaelus Media</title>
 	<link rel="stylesheet" href="index.css" type="text/css" media="all" />
