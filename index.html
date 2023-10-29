@@ -2,51 +2,36 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
 
 <head>
-    <script language="javascript" type="text/javascript">
-        function search() {
-            var searchTerm = document.getElementById('searchBox').value;
-            window.open("https://github.com/search?q=" + searchTerm);
-        }
-    </script>
-    <title>Active construction site!</title>
-    <link rel="stylesheet" href="index.css" type="text/css" media="all" />
-    <link rel="icon" id="favicon" href="favicon.png" />
+	<script language="javascript" type="text/javascript">
+		function search() {
+			var searchTerm = document.getElementById('searchBar').value;
+			window.open("https://github.com/search?q=" + searchTerm + "+owner%3ASuperTux20&type=repositories");
+		}
+	</script>
+	<title>Pengaelus Media</title>
+	<link rel="stylesheet" href="index.css" type="text/css" media="all" />
+	<link rel="icon" id="favicon" href="favicon.png" />
 </head>
 
 <body>
-    <div id="errorPageContainer">
-        <div id="text-container">
-            <div>
-                <input id="searchBox" type="text" placeholder="Search all of Github..." autofocus/>
-                <br><br><br>
-                <h1 class="title-text">Hmm... Looks like my page is under construction.</h1>
-                <br>
-                <h2 id="errorShortDescText">Don't worry, I'm working on it!</h2>
-                <br>
-            </div>
-            <div>
-                <div>
-                    <strong>Here are some other things you can try:</strong>
-                    <ul>
-                        <li>Try again later.</li>
-                        <li>Admire the craftsmanship in this rip of Firefox's Server Not Found page.</li>
-                        <li>Be warned that I am just an amateur programmer.</li>
-                        <li>Click <a href="https://github.com/SuperTux20">here</a> to visit my GitHub profile.</li>
-                        <li>Click <strong>Search</strong> to search the query entered above.</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="button-container">
-            <a href=""><button>Refresh</button></a>
-            <a href="mcupdates.html"><button>Minecraft Ideas</button></a>
-            <a href="legacymods.html"><button>NeverEnding Legacy Mods</button></a>
-            <a href="https://supertux20.github.io/Space-Cadet-NEO/"><button style="background-color: purple;">Space Cadet NEO</button></a>
-            <a href="https://supertux20.github.io/Pengaelic-Bot/"><button style="background-color: #007f7f;">Pengaelic Bot</button></a>
-            <a href="https://supertux20.github.io/GoLWeb/"><button>Cellular Automata</button></a>
-            <button onclick="search();" type="submit">Search</button>
-        </div>
-    </div>
+	<div>
+		<div class="button-container">
+			<a href="mc_mod_ideas.html"><button>Minecraft mod plans</button></a>
+			<a href="Pengaelic-Bot"><button>Discord bot</button></a>
+			<a href="GoLWeb"><button>Cellular Automata thing</button></a>
+			<a href="GardenMod"><button>Minecraft mod</button></a>
+			<a href="PengaelusMod"><button>Terraria mod</button></a>
+			<a href="https://github.com/supertux20/supertux20.github.io"><button>This website's GitHub
+					repository</button></a>
+		</div>
+		<h1>Pengaelus Media</h1>
+		<h2>The hub for all of Tux Penguin's projects</h2>
+		<h3>It may not be much yet, but ohoho boy, just you wait</h3>
+		<div id="search">
+			<input id="searchBar" type="text" placeholder="Search my GitHub repositories..." autofocus />
+			<button id="searchButton" onclick="search();" type="submit">Search</button>
+		</div>
+	</div>
 </body>
 
 </html>

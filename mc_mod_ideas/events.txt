@@ -1,0 +1,16 @@
+Remember Raids? Well we decided that wasn't enough! Have more events and weather!
+
++ New zombie, the Hull. Icy, slows you down when it attacks.
+
+Global events. Each one has its own gamerule to turn it off.
++ Blood Moon, nighttime spawn rates are increased, and mobs deal 50% more damage. Your surroundings turn crimson, awash with dark moonlight. Villagers sweat like they do during a Raid, even when they (try to) sleep. You cannot sleep. Nightmares are terrible...
++ Solar Eclipse, looks like nighttime when it's technically day, mobs spawn with Blood Moon rates but no damage increase. Strange things can happen during an Eclipse...
++ Redstone Flux, makes redstone components behave erratically. I wouldn't use your machines if I were you. Disabled by default, commonly coupled with thunderstorms.
++ Corruption, watch out for randomly shifting, flipping, and rotating chunks! Blocks may occasionally change types, but not very often. Who knows, you might get lucky and find a diamond block. For some reason, once you interact with the chunk, it sort of "stabilizes" and won't corrupt again. I guess you don't have to worry about your builds getting messed up. Corruptions appear to be localized to small areas at a time, but these areas slowly move around, leaving a trail of confusion in their wake.
+
+Biome-specific weather. Can all be disabled with /gamerule doWeatherCycle false.
++ Sandstorm, only occurs in deserts and badlands. Makes it harder to see, makes you move slower, and deals damage every few seconds. You might need a couple of potions to make it through. Zombies caught in sandstorms eventually turn into Husks. 
++ Blizzard, a snow/ice biome version of the Sandstorm. Instead of damaging you, it doesn't let you regenerate health. Be careful not to take excessive damage. Zombies caught in blizzards eventually turn into Hulls.
++ Magma Rain, only occurs in the Nether. You better hope you have an iron or diamond helmet on, or some other way to protect yourself from fire damage.
+
+- Removed Herobrine.

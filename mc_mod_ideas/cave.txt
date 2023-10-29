@@ -1,0 +1,35 @@
+Yeah, Caves and Cliffs added a lot, but perhaps some new additions are in order?
+
++ Crystal Caves, new underground biome with crystals of many colors jutting in every direction.
++ Crystal blocks! Find them in Crystal Caves, dye them, and use them like glowing glass! Emits as much light as a magma block.
++ Wooden armor, in between leather and chain.
++ Stone armor, in between chain and iron protection-wise, but lasts as long as diamond. Gives you Slowness I when any piece is worn, effect does not compound.
++ New tool, the Chisel. Right click certain blocks with it to change the look from bricks to chiseled and more.
++ Diamond, amethyst, and quartz have a refined form made by smelting, and are renamed to Raw [Gem].
++ Emeralds, being refined-looking, now have a raw form.
++ Sounds now echo in mountains and caves. Cave noises are even MORE terrifying!
++ New gems, Ruby, Olivine, Topaz, Tourmaline, Onyx, Aquamarine, Rose Quartz, Moonstone, Amber, Smoky Quartz, and Tiger's Eye, to fill out a 16-color palette of gems. Make them into blocks, tools, and armor! They're just as rare as diamonds, and just as tough.
++ Overworld ore for quartz.
++ Quartz, amethyst, and emerald equipment, just as tough as diamond.
++ Geodes for all the new gems (plus diamond, emerald, and quartz).
++ Cave variations of hostile mobs evolved glowing eyes, making caving a little easier because these mobs actually emit light. Along with normal drops, they also drop a random raw metal, gem shard, coal, or cobblestone.
+~ Quartz Blocks now take 9 quartz, and can be uncrafted back into quartz items.
+~ Magma blocks now generate around underground lava, or in lava lakes on the surface.
+~ Lava buckets no longer smelt 100 items; they now smelt 128 items!
+~ Wooden armor has variants for all types of logs.
+~ Gold is far more powerful. All tools break blocks instantly with Efficiency V and you take no damage with the armor on, but it deteriorates much faster than it did before.
+~ Remember the eerie cave noises? Well now if you hear one in the Deep Dark, find or make some light, or apply Night Vision right away. If you're not careful, the darkness may consume you...
+~ There is now dynamic light, like with OptiFine.
+~ You can coat your face in glowstone dust to light up your surroundings as you walk.
+~ Different gem armor sets give different status effects when the full set is worn.
+	~ Ruby gives Fire Resistance
+	~ Quartz gives Jump Boost II and Slow Falling
+	~ Diamond gives Strength III
+	~ Topaz gives Haste II
+	~ Emerald gives Luck VII
+	~ Sapphire gives Night Vision
+	~ Amethyst gives Speed IV
+	~ Aquamarine gives Water Breathing and has Depth Strider III by default
+	~ Tourmaline gives Health Boost V and Regeneration
+	~ Onyx gives Resistance II
+- Removed Herobrine.
