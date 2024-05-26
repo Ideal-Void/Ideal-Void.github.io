@@ -43,4 +43,8 @@ Minecraft is a fantasy game, so let's emphasize on it because why not!
 + Brewing recipe for the XP bottle, use an emerald block on a Mundane Potion (Not an awkward potion!).
 ~ Enchanting or using an anvil for enchantment-related purposes now takes mana instead of XP. Enchanting still takes lapis. Why are your levels not taken anymore? Your maximum mana depends on your XP levels, so you can still have a level 30 enchantment that you can't get to because you don't have enough mana, which can mean you don't have enough levels. Item repair and renaming still takes XP.
 ~ Collecting XP will regenerate your mana in addition to slow passive regeneration. Leveling up will increase your max mana by 5.
+~ Merged a lot of enchantments that have similar effects on different tools (Sharpness/Power, Knockback/Punch, Fire Aspect/Flame, Looting/Fortune/Luck of the Sea, Efficiency/Lure)
+~ Bow and Crossbow enchantments are compatible with each other
+~ Quick Charge can be applied to melee weapons to decrease attack cooldown
+~ Piercing can be applied to melee weapons for a chance to ignore shields on critical hits
 - Removed Herobrine.
